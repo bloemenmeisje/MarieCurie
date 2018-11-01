@@ -1,6 +1,8 @@
 
 # Biografie van Marie Curie
 
+![alt text](~/MarieCurie/afbeeldingen/mc_001.jpeg "Logo Title Text 1")
+
 ## Jeugd
 
 Marie Curie geboren als Marya Sklodowska is geboren op 7 november 1867 in Warschau. Ze was de jongste van 5 kinderen,haar moeder gaf hen thuis de kennis de ze moesen weten voor verder te kennen.Hun vader daarentegen was een leerkracht Natuurkunde en Wiskunde in een middelbare school .
