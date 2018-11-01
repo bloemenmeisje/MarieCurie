@@ -1,7 +1,7 @@
 
 # Biografie van Marie Curie
 
-![alt text](~/afbeeldingen/mc_001.jpeg "Logo Title Text 1")
+![alt text](/afbeeldingen/mc_001.jpeg "Logo Title Text 1")
 
 ## Jeugd
 
