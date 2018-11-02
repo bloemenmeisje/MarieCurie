@@ -1,20 +1,24 @@
 ## lijst geinformeerde boeken
 
-Marie Curie 
+### Marie Curie 
 - jeugd
 
-Blanche en Marie 
+### Blanche en Marie 
 - door Per Olov Enquist
 - een roman
 - volwassen
 - uitgeverij Ambo-Amsterdam
 
-Madame Curie
+### Madame Curie
 - door Eve Curie
 - Roman
 - volwassenen
 - uitgeverij Leopold-Den Haag
 
-Trotter: Polen
+### Trotter: Polen
 - reisgids
 - uitgeverij Lannoo
+
+### Geschiedenis van de Wetenschap: 
+#### samengevat in de spectaculaire levens van 12 geleerden
+- Jack Meadows
