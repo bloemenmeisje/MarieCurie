@@ -22,6 +22,6 @@
 ### Geschiedenis van de Wetenschap
 #### samengevat in de spectaculaire levens van 12 geleerden
 - Jack Meadows
-- volwassenen
+- volwassenene
 - uitgeverij Uniepers Abcoude
 - samenwerking met Natuur & Techniek
