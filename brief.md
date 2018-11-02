@@ -11,6 +11,6 @@ U hebt echt geweldige dingen ontdekt en ik vind het geweldig dat u hier helemaal
 U was vast zeker al lang aan het onderzoeken toen u radioactiviteit uitvond.
 Ik sta versteld van hoeveel u op een levenstermijn hebt gedaan. U hebt ervoor gezorgd dat de dokters zoveel verder staan en ze zieke mensen kunnen helpen door de organen te kunnen bekijken
 
-Ook wil ik u graag feliciteren met de gewonnen Nobelprijzen voor de natuurkunde en de Nobelprijs van u dochter voor de scheikunde.
+Ook wil ik u graag feliciteren met de gewonnen Nobelprijzen voor de natuurkunde en de chemie,natuurlijk ook proficiat voor de Nobelprijs van u dochter voor de scheikunde.
 
 
