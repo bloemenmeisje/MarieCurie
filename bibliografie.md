@@ -19,6 +19,9 @@
 - reisgids
 - uitgeverij Lannoo
 
-### Geschiedenis van de Wetenschap: 
+### Geschiedenis van de Wetenschap
 #### samengevat in de spectaculaire levens van 12 geleerden
 - Jack Meadows
+- volwassenen
+- uitgeverij Uniepers Abcoude
+- samenwerking met Natuur & Techniek
