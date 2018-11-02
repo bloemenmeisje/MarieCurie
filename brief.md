@@ -2,12 +2,15 @@
 
 Beste
 
-Ik ben gefascineerd door uw werk en daarom ga ik een jaarwerk over u maken .
-U hebt echt geweldige dingen ontdekt en ik vind het geweldig dat u hier helemaal bent voor gegaan. 
-Toen u de radioactiviteit uitvond was u zeker al lang dat aan het onderzoeken. ik sta versteld van hoeveel u op een levenstermijn hebt gedaan.
+Ik heb een tijdje geleden in het ziekenhuis gelegen vanwege mijn epilepsie. Ik heb daar enkele scans moeten laten maken waaronder de MRI en de Spectscan. Ik vond deze machines best boeiend dus kwam ik op het idee om de persoon achter deze technologie te ontdekken. 
+Uiteindelijk kwam ik bij u en uw werk uit. Hierdoor ben ik gefascineerd geraakt door uw werk.
 
-Ook vind ik het cool dat u uw leven heeft gegeven voorde wetenschap.Ook uw man heeft zijn leven geofferd en daar bedank ik u en uw man voor. Het zal vast niet gemakkelijk zijn geweest om als vrouw te kunnen gaan studeren.
-OOk wil ik u graag feliciteren met de gewonnen Nobelprijzen voor de natuurkunde en de Nobelprijs van u dochter voor de scheikunde.
+Op school moeten wij een groot werk maken genaamd een jaarwerk. Dit jaar bestaat dit uit een biografie ,Ik moest meteen aan u denken toen ik de opdracht hoorde.
 
-Wat u hebt gedaan is niet het meest normale van de wereld ,u hebt ervoor gezorgd dat er tegenwoordig mensen genezen kunnen worden door de organen te kunnen bekijken.
+U hebt echt geweldige dingen ontdekt en ik vind het geweldig dat u hier helemaal bent voor gegaan. Vooral omdat dit niet altijd gemakkelijk was. U en uw man hebben werkelijk uw leven gegeven voor de wetenschap wat ik ontzettend waardeer. Want het was vast niet zo gemakkelijk om als vrouw te kunnen gaan studeren in Polen;en toch bent u ervoor gegaan.
+U was vast zeker al lang aan het onderzoeken toen u radioactiviteit uitvond.
+Ik sta versteld van hoeveel u op een levenstermijn hebt gedaan. U hebt ervoor gezorgd dat de dokters zoveel verder staan en ze zieke mensen kunnen helpen door de organen kunnen bekijken
+
+Ook wil ik u graag feliciteren met de gewonnen Nobelprijzen voor de natuurkunde en de Nobelprijs van u dochter voor de scheikunde.
+
 
