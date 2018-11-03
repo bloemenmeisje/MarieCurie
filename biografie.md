@@ -1,7 +1,8 @@
+[Brief](brief.md) | [Biografie](biografie.md) | [Bronnen](bibliografie.md) | [Tijdlijn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1E-iVJlxIhEdE5K3mXC_vnQod_FRKKTVz-mWdT42EE0s&font=Default&lang=nl&initial_zoom=2&height=650)
 
 # Biografie van Marie Curie
 
-![alt text](/afbeeldingen/mc_001.jpeg "Logo Title Text 1")
+![Marie Curie](afbeeldingen/mc_001.jpeg)
 
 ## Jeugd
 
