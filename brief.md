@@ -1,5 +1,3 @@
-[Brief](brief.md) | [Biografie](biografie.md) | [Bronnen](bibliografie.md) | [Tijdlijn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1E-iVJlxIhEdE5K3mXC_vnQod_FRKKTVz-mWdT42EE0s&font=Default&lang=nl&initial_zoom=2&height=650)
-
 # Brief aan Marie Curie
 
 Beste
@@ -11,7 +9,7 @@ Op school moeten wij een groot werk maken genaamd een jaarwerk. Dit jaar bestaat
 
 U hebt echt geweldige dingen ontdekt en ik vind het geweldig dat u hier helemaal bent voor gegaan. Vooral omdat dit niet altijd gemakkelijk was. U en uw man hebben werkelijk uw leven gegeven voor de wetenschap wat ik ontzettend waardeer. Want het was vast niet zo gemakkelijk om als vrouw te kunnen gaan studeren,toch bent u ervoor gegaan.
 U was vast zeker al lang aan het onderzoeken toen u radioactiviteit uitvond.
-Ik sta versteld van hoeveel u op een levenstermijn hebt gedaan. U hebt ervoor gezorgd dat de dokters zoveel verder staan en ze zieke mensen kunnen helpen door de organen te kunnen bekijken
+Ik sta versteld van hoeveel u op een levenstermijn hebt gedaan. U hebt ervoor gezorgd dat de dokters zoveel verder staan en ze zieke mensen kunnen helpen door de organen te kunnen bekijken.
 
 Ook wil ik u graag feliciteren met de gewonnen Nobelprijzen voor de natuurkunde en de chemie, natuurlijk ook proficiat voor de Nobelprijs van uw dochter voor de scheikunde.
 Ik ben u dankbaar wat u hebt gedaan.
