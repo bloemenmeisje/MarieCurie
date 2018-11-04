@@ -42,6 +42,26 @@ Voor hun huwelijk kregen ze van de ouders van Pierre 2 fietsen. Hun enige ontspa
 
 Marie sloot het onderzoek naar magnetisme af  en begon onderzoek naar uranium stralen die Becquerel had ontdekt. Ze ontdekte dat dit een eigenschap was van een atoomkern en gaf de naam radioactiviteit aan dit fenomeen.
 
+### De ontdekking van Radium.
+
+(Marie dacht aan nog andere unranische straling behalve de bestaande 3. Want allerlei chemische behandelingen en temperatuurverschillen gaven geen effect op de straling zelf.)
+Voor haar had alles te maken met de atomen zelf.
+(De stralingseigenschap van Radium, Polonium en Thorium noemde ze radioactiviteit.) 
+Maar dat was voor haar niet alles, ze wist namelijk dat er nog een stof binnenin de pekblende zat die 4000 x krachtiger was.
+Na ellelange zuiveringsprocessen ontdekt ze een bepaalde stof namelijk Radium.
+Dit is de **meest beroemde** ontdekking van Marie in 1898.
+Toch zijn heel wat mensen zeer argwanend daar tegenover, omdat er in die veel ontdekkingen gedaan worden die toch niet helemaal ok waren.
+Om het element Radium echt te kunnen vaststellen, hadden de Curies een groot en zuiver genoeg monster nodig. 
+Dat kregen ze door 7000 kg pekblende uit te zuiveren, tot ze bij 1 gram zuivere Radium uitkwamen. Die pekblende kregen ze met hopen van de mijnen in Bohemen.
+Heel dat proces om tot zuivere Radium te komen , duurde 3 jaar.
+
+Dan na ellelange zuiveringsprocessen ontdekt ze die bepaalde stof namelijk Radium.
+Dit is de wereldberoemde ontdekking van Marie in 1898.
+Toch zijn heel wat mensen zeer argwanend daar tegenover, omdat er in die veel ontdekkingen gedaan worden die toch niet helemaal ok waren.
+Om het element Radium echt te kunnen vaststellen, hadden de Curies een groot en zuiver genoeg monster nodig. 
+Dat kregen ze door 7000 kg pekblende uit te zuiveren, tot ze bij 1 gram zuivere Radium uitkwamen. Die pekblende kregen ze met hopen van de mijnen in Bohemen.
+Heel dat proces om tot zuivere Radium te komen , duurde 3 jaar.
+
 Marie werd hierdoor hoofd van het natuurkunde laboratorium van de sorbonne. 
 Ze kregen samen 2 kinderen ,ève en irène
 Na het overlijden van Pierre in 1906 Kreeg Marie de leerstoel,ook werd ze benoemd tot lector. Ze was de eerste vrouwelijk hoogleraar aan de sorbonne.

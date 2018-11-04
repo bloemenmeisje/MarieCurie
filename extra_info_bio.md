@@ -21,15 +21,6 @@ Sonya werd later wel de 1ste vrouwelijke hoogleraar aan de universiteit van Stoc
 Ook Mary Sommerville ( Schotland ) kon wetenschap zeer begrijpelijk uitleggen maar kreeg daarvoor geen erkenning.
 Ook Lise Meitner was mede-ontdekker van de kernsplijting, promoveerde als 2de vrouw aan de universiteit van Wenen, maar vond daarna geen werk.
 
-# Waarom konden vrouwen in die tijd niet studeren ? 
-
-- Er waren allerlei 19de eeuwse theorieen : 
-- vrouwen hebben minder hersenen dan mannen.
-- vrouwen kunnen niet rationeel denken.
-- teveel wetenschap in hun hoofd maakt hen ongeschikt voor moederschap.
-Later werden ze wel toegelaten aan universiteiten, maar ze moesten dan wel een neerbuigende houding aannemen.
-Bv : Hertha Ayrton ( zij was een goede vriendin van Marie ) was de eerste vrouw die een lidmaatschap kreeg aan de Royal Society maar werd heel vaak afgewezen.
-En ze kreeg voor die titel ook weinig waardering.
 
 # Marie Curie was de belangrijkste Poolse geleerde sinds Copernicus.
 
@@ -40,18 +31,6 @@ Hij stichtte ook een Academie voor Wetenschappen en een eigen universiteit in St
 Na de val van de Tsaar kwam er terug oorlog, dictatuur en nationalisme. en gaat het voor de wetenschap terug naar af.
 Na WO II komt er terug verandering en boeken ze vooral grote successen in de ruimtevaart.
 
-# De ontdekking van Radium.
-
-Marie dacht aan nog andere unranische straling behalve de bestaande 3. Want allerlei chemische behandelingen en temperatuurverschillen gaven geen effect op de straling zelf.
-Dus voor haar had alles te maken met de atomen zelf.
-De stralingseigenschap van Radium, Polonium en Thorium noemde ze radioactiviteit. 
-Maar dat was voor haar niet alles, ze wist dat er nog een stof zat binnenin de pekblende die 4000 x krachtiger was. 
-Dan na ellelange zuiveringsprocessen ontdekt ze die bepaalde stof namelijk Radium.
-Dit is de wereldberoemde ontdekking van Marie in 1898.
-Toch zijn heel wat mensen zeer argwanend daar tegenover, omdat er in die veel ontdekkingen gedaan worden die toch niet helemaal ok waren.
-Om het element Radium echt te kunnen vaststellen, hadden de Curies een groot en zuiver genoeg monster nodig. 
-Dat kregen ze door 7000 kg pekblende uit te zuiveren, tot ze bij 1 gram zuivere Radium uitkwamen. Die pekblende kregen ze met hopen van de mijnen in Bohemen.
-Heel dat proces om tot zuivere Radium te komen , duurde 3 jaar.
 
 # Beproeving en succes.
 
