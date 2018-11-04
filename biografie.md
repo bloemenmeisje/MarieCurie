@@ -16,6 +16,20 @@ Op 15 jarige leeftijd verlieten zij en haar zus Bronya de middelbare school met 
 In die tijd was het onmogelijk om als vrouw te mogen gaan studeren en een beurs te krijgen dus moesten ze zelf alles zien te bolwerken. Zij en haar zus(Bronya) gingen naar de vliegende universiteit om meer kennis op te doen. De vliegende universiteit was een plek waar jongeren hun kennis uitwisselden zonder dat de russen er iets van wisten.
 Op 18 jarige leeftijd gaf ze haar zrgenloze levendje op om haar droom achterna te gaan studeren aan de universiteit . Ze ging als gouvernante werken op een suikerriet plantage ;om zo genoeg geld te kunnen verdienen dat zowel zij als Bronya naar de Sorbonne konden( universiteit Parijs) toen ze genoeg geld had voor 1 persoon  te kunnen laten overvliegen . Ze kozen ervoor om Bronya als 1ste te laten gaan om arts te worden. Zodat zij later ook kon overkomen met behulp van haar inkomen.
 
+## Vrouwen mochten in die tijd niet studeren, waarom niet?
+
+Er waren allerlei 19de eeuwse theorieen die ze bedachten. Ze zagen vrouwen als minderwaardig:
+
+- vrouwen hebben minder hersenen dan mannen.
+
+- vrouwen kunnen niet rationeel denken.
+
+- teveel wetenschap in hun hoofd maakt hen ongeschikt voor moederschap.
+
+Later werden vrouwen wel toegelaten aan universiteiten, maar het was verplichtze om een neerbuigende houding aannemen.
+Bv : Hertha Ayrton ( zij was een goede vriendin van Marie ) was de eerste vrouw die een lidmaatschap kreeg aan de Royal Society maar werd heel vaak afgewezen.
+Ze kreeg voor deze titel weinig waardering.
+
 ## Studententijd
 
 Op 24 jarige leeftijd  werd ze toegelaten op de Sorbonne. Ze verhuisde naar een klein zolderkamertje waar ze met weinig geld moest zien te overleven.
