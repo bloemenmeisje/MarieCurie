@@ -32,28 +32,5 @@ Na de val van de Tsaar kwam er terug oorlog, dictatuur en nationalisme. en gaat 
 Na WO II komt er terug verandering en boeken ze vooral grote successen in de ruimtevaart.
 
 
-# Beproeving en succes.
-
-De Curies hebben nooit geen patent gevraagd voor hun technieken om Polonium en Radium te winnen. 
-Daarom was het winnen van de Nobelprijs in 1903 zo belangrijk omdat er ook een serieus prijskaartje aan hing.
-
-- 1987 : geboorte dochter Irene Curie
-- 1904 : geboorte dochter Eve Curie
-- 1906 : Pierre Curie overlijdt na een fataal ongeluk met paard en wagen. Waarschijnlijk was hij onder invloed van Radium.
-Ondank zijn slechter wordende gezondheid en verstrooidheid, geloofde Pierre wel in de genezende kracht van Radium.
-Marie is radeloos van verdriet !
-Ze zoekt verder naar technieken om een bepaalde standaard te bereiken met Radium, om zo bepaalde ziektes ( zweren, lupus, reuma... )
-te kunnen genezen.
-- dec 1906 : Marie wordt benoemd tot 1ste vrouwelijke hoogleraar aan de Sorbonne in Parijs.
-- 1910 : Marie publiceert de " Verhandeling van de radioactiviteit. Op dat zelfde moment komt haar relatie met Paul Langevin in de openbaarheid.
-Mede daardoor kreeg ze geen benoeming aan de Academie van de Wetenschappen.
-- 1911 : 2de Nobelprijs voor de Scheikunde
-Ze kreeg de mogelijkheid om les te gaan geven in Polen, maar daar bedankte ze vriendelijk voor. 
-Ze ging wel naar Warschau om een labo voor onderzoek naar radioavtiviteit te openen.
-In Parijs wordt er het Radiuminstituut opgericht. Marie wordt er directeur. Tijdens die periode reisde ze 2x naar de Verenigde Staten om geld bij elkaar te sprokkelen voor dat instituut.
-- Tijdens WO II runt ze samen met haar dochter Irene een mobiele röntgenfotodienst.
-- 1913 : Marie ontvangt het eredoctoraat aande universiteit van Birmingham.
-- 1926 : Irene Curie huwt met de assistent van Marie Curie : Frederic Joliot.
-- 1934 : Marie overlijdt aan de gevolgen van leukemie. Waarschijnlijk had het werken met straling een effect op Marie's gezondheid.
 
 
