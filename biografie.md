@@ -105,7 +105,7 @@ Daarom was het winnen van de Nobelprijs in 1903 zo belangrijk omdat er ook een s
 
 - 1893 : 2de beste van haar jaar in wiskunde en krijgt kleine studiebeurs
 
-- 1895 : Trouwt mzt Pierre Curie
+- 1895 : Trouwt met Pierre Curie
 
 - 1887 : geboorte dochter Irene Curie
 
