@@ -61,13 +61,18 @@ Heel het zuiveringsproces om tot zuivere Radium te komen , duurde 3 jaar.
 
 Marie werddoor deze ontdekking hoofd van het natuurkundig laboratorium van de sorbonne. 
 Na het overlijden van Pierre in 1906 Kreeg Marie de leerstoel,ook werd ze benoemd tot lector. Ze was de eerste vrouwelijk hoogleraar aan de sorbonne.
-### Geschreven boeken en 1ste WO
-In 1910 schreef Marie het 2-delige " verhandeling over radioactiviteit",ook in dit jaar lukte het haar om radium te isoleren . Marie 
-definierde ook de eenheid voor radioactiviteit, genaamd Curie vernoemt naar zij en Pierre Curie.
-In 1914 brak de 1ste WO(wereldoorlog) ging Marie en Irène met behulp van een eigen ontdekking in de westhoek de gewonde soldaten aan de frontlinie onderzoeken.
+
+#### Geschreven boeken en 1ste WO
+
+In 1910 schreef Marie het 2-delige " verhandeling over radioactiviteit",ook in dit jaar lukte het haar om radium te isoleren. Marie 
+definierde ook de eenheid voor radioactiviteit, genaamd Curie; vernoemt naar zij en Pierre Curie.
+In 1914 brak de 1ste WO(wereldoorlog) ging Marie en Irène ( haar oudste dochter) met behulp van een eigen ontdekking in de westhoek de gewonde soldaten aan de frontlinie onderzoeken.
+
+#### Laatste levensjaren
 
 Ze bleef directeur van het natuurkundig laboratorium tot haar dood . Ze overleed in 1934 aan leukemie door teveel aan de straling zijn blootgesteld. Dit zal waarschijnlijk ook de dood van Pierre hebben vooroorzaakt.
-Ze werd naast haar man in hetsceaux begraven en nadien in het pantheon begraven.
+Ze werd naast haar man in het sceaux begraven. In 1995 werd ze en haar man overgebracht naar het pantheon.
+Dit gebeurde in een loode kist omdat ze allebij zo radioactief geladen zijn dat het onveilig zou zijn ze gewoon te vervoeren.
 
 ## prijzen
 
