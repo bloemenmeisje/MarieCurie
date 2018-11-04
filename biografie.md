@@ -39,6 +39,7 @@ In 1893 was ze de beste van haar jaar voor natuurkunde. Het jaar daarop was ze 2
 
 In 1895 trouwden Marya (Marie noemde ze zichzelf) en Pierre Curie, ze hielden veel van elkaar en dit kwam ook tot uiting in het laboratorium.
 Voor hun huwelijk kregen ze van de ouders van Pierre 2 fietsen. Hun enige ontspanning was dan ook lange fietstochten door het platteland.
+Ze kregen samen 2 kinderen ,ève en irène
 
 Marie sloot het onderzoek naar magnetisme af  en begon onderzoek naar uranium stralen die Becquerel had ontdekt. Ze ontdekte dat dit een eigenschap was van een atoomkern en gaf de naam radioactiviteit aan dit fenomeen.
 
@@ -47,25 +48,20 @@ Marie sloot het onderzoek naar magnetisme af  en begon onderzoek naar uranium st
 (Marie dacht aan nog andere unranische straling behalve de bestaande 3. Want allerlei chemische behandelingen en temperatuurverschillen gaven geen effect op de straling zelf.)
 Voor haar had alles te maken met de atomen zelf.
 (De stralingseigenschap van Radium, Polonium en Thorium noemde ze radioactiviteit.) 
+
 Maar dat was voor haar niet alles, ze wist namelijk dat er nog een stof binnenin de pekblende zat die 4000 x krachtiger was.
 Na ellelange zuiveringsprocessen ontdekt ze een bepaalde stof namelijk Radium.
 Dit is de **meest beroemde** ontdekking van Marie in 1898.
-Toch zijn heel wat mensen zeer argwanend daar tegenover, omdat er in die veel ontdekkingen gedaan worden die toch niet helemaal ok waren.
-Om het element Radium echt te kunnen vaststellen, hadden de Curies een groot en zuiver genoeg monster nodig. 
-Dat kregen ze door 7000 kg pekblende uit te zuiveren, tot ze bij 1 gram zuivere Radium uitkwamen. Die pekblende kregen ze met hopen van de mijnen in Bohemen.
-Heel dat proces om tot zuivere Radium te komen , duurde 3 jaar.
+Toch zijn heel wat mensen zeer argwanend over haar werk, omdat er in al haar werk, ontdekkingen gedaan werden die toch niet helemaal ok waren.
+Om het element Radium echt te kunnen vaststellen, hadden de Curies een groot en vooral zuiver genoeg monster nodig. 
+Dit kregen ze pas, door 7000 kg pekblende uit te zuiveren, tot ze bij 0,14 gram zuivere Radium uitkwamen. Die pekblende kregen ze met hopen van de mijnen in Bohemen. Ze konden namelijk niets doen met de pekblende.
+Heel het zuiveringsproces om tot zuivere Radium te komen , duurde 3 jaar.
 
-Dan na ellelange zuiveringsprocessen ontdekt ze die bepaalde stof namelijk Radium.
-Dit is de wereldberoemde ontdekking van Marie in 1898.
-Toch zijn heel wat mensen zeer argwanend daar tegenover, omdat er in die veel ontdekkingen gedaan worden die toch niet helemaal ok waren.
-Om het element Radium echt te kunnen vaststellen, hadden de Curies een groot en zuiver genoeg monster nodig. 
-Dat kregen ze door 7000 kg pekblende uit te zuiveren, tot ze bij 1 gram zuivere Radium uitkwamen. Die pekblende kregen ze met hopen van de mijnen in Bohemen.
-Heel dat proces om tot zuivere Radium te komen , duurde 3 jaar.
+#### Beloning ontdekking radium
 
-Marie werd hierdoor hoofd van het natuurkunde laboratorium van de sorbonne. 
-Ze kregen samen 2 kinderen ,ève en irène
+Marie werddoor deze ontdekking hoofd van het natuurkundig laboratorium van de sorbonne. 
 Na het overlijden van Pierre in 1906 Kreeg Marie de leerstoel,ook werd ze benoemd tot lector. Ze was de eerste vrouwelijk hoogleraar aan de sorbonne.
-
+### Geschreven boeken en 1ste WO
 In 1910 schreef Marie het 2-delige " verhandeling over radioactiviteit",ook in dit jaar lukte het haar om radium te isoleren . Marie 
 definierde ook de eenheid voor radioactiviteit, genaamd Curie vernoemt naar zij en Pierre Curie.
 In 1914 brak de 1ste WO(wereldoorlog) ging Marie en Irène met behulp van een eigen ontdekking in de westhoek de gewonde soldaten aan de frontlinie onderzoeken.
