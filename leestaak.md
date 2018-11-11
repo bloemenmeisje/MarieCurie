@@ -1,6 +1,7 @@
 # Leestaak
 
 ## Hoofdstuk 2
+
 ### *Sombere dagen*
 
 Marie en haar zus Helena zitten op school in het instituut van Juffrouw Sikarska. Dit is Pools Onderwijs.
@@ -16,8 +17,8 @@ Marie ontsnapt aan haar angst voor de dood en de russen door de boeken van haar 
 
 Ze ondervindt dat het leven wreed is en alles wat het wil kan wegnemen.
 
-
 ## Hoofdstuk 8
+
 ### *Parijs*
 
 Als ze uit de trein stapt voelt ze zich vrij. Het geld dat ze had gespaard geeft ze uit aan de Sorbonne. Ze start met de lessen op 3 november 1891.
@@ -26,10 +27,8 @@ Marie werkt hard en vind al snel een paar vrienden. Ze schrijft brieven aan haar
 
 De kosten lopen op ; de verplaatsing, eten, verwarming, de lessen. Ze verhuist naar Quartier Latin vlakbij de universiteit. Bronya helpt Marie financieel veel vooruit en hieruit ontstaat heel veel dankbaarheid.
 
-
-
-
 ## Hoofdstuk 12
+
 ### *Radium*
 
 Als jonge moeder doet ze een ontdekking in de moderne wetenschap. De ontdekking houdt in dat er uranium stralen van onbekende oorsprong
