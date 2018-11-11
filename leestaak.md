@@ -8,7 +8,9 @@ Marie is een uitstekende leerling en zit 2jaar hoger dan normaal.
 Het wordt eigenlijk niet toegelaten om Poolse boeken te hebben en als de inspecteur langs komt zitten alle meisjes netjes te naaien.
 
 De inspecteur toetst al hun Russische kennis want spelling en rekenen vonden ze onbelangrijk. Marie voelde hiertegenover een heel erge angst, ze haatte liegen.
-Marie maakt allerlei rampen mee in haar jeugd. Haar moeder ondergaat een tuberculose behandeling maar wordt niet beter, haar vader verliest zijn titel,loon en huis door problemen met een Russische bezetter. Door het financieel tekort geeft de vader van Marie les aan inwonende kinderen. 1 Van hen steekt Bronya en Zosia aan met Tyfus, Bronya overleefd de situatie maar Zosia overlijd.
+Marie maakt allerlei rampen mee in haar jeugd. Haar moeder ondergaat een tuberculose behandeling maar wordt niet beter, haar vader verliest zijn titel,loon en huis door problemen met een Russische bezetter. 
+
+Door het financieel tekort geeft de vader van Marie les aan inwonende kinderen. 1 Van hen steekt Bronya en Zosia aan met Tyfus, Bronya overleefd de situatie maar Zosia overlijd.
 
 Marie ontsnapt aan haar angst voor de dood en de russen door de boeken van haar vader te lezen. Alleen de angst voor de ziekte van haar moeder blijft en een paar weken later sterft haar moeder.
 
