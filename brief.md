@@ -2,7 +2,7 @@
 
 # Brief aan Marie Curie
 
-*Geachte Marie Curie*
+## *Geachte Marie Curie*
 
 Ik heb een tijdje geleden in het ziekenhuis gelegen vanwege mijn epilepsie. Ik heb daar enkele scans moeten laten maken waaronder de MRI en de Spectscan. Ik vond deze machines best boeiend dus kwam ik op het idee om de persoon achter deze technologie te ontdekken. 
 Uiteindelijk kwam ik bij u en uw werk uit. Hierdoor ben ik gefascineerd geraakt door uw werk.
