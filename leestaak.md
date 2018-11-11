@@ -1,6 +1,7 @@
 # Leestaak
 
 #### Hoofdstuk 2
+*Sombere dagen*
 
 Marie en haar zus Helena zitten op school in het instituut van Juffrouw Sikarska. Dit is Pools Onderwijs.
 Marie is een uitstekende leerling en zit 2jaar hoger dan normaal.
@@ -14,6 +15,7 @@ Marie ontsnapt aan haar angst voor de dood en de russen door de boeken van haar 
 Ze ondervindt dat het leven wreed is en alles wat het wil kan wegnemen.
 
 #### Hoofdstuk 12
+*Radium*
 
 Als jonge moeder doet ze een ontdekking in de moderne wetenschap. De ontdekking houdt in dat er uranium stralen van onbekende oorsprong
 Hiernaar doen de Curies veel onderzoek. Ze Krijgen een beschutte werkplaats zonder comfort. Maar ze doen er alles aan om toch onderzoek te doen.Na enkele weken krijgen ze resultaat.
