@@ -25,6 +25,8 @@ Marie werkt hard en vind al snel een paar vrienden. Ze schrijft brieven aan haar
 De kosten lopen op ; de verplaatsing, eten, verwarming, de lessen. Ze verhuist naar Quartier Latin vlakbij de universiteit. Bronya helpt Marie financieel veel vooruit en hieruit ontstaat heel veel dankbaarheid.
 
 
+
+
 ## Hoofdstuk 12
 ### *Radium*
 
