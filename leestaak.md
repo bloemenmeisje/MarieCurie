@@ -12,3 +12,11 @@ Marie maakt allerlei rampen mee in haar jeugd. Haar moeder ondergaat een tubercu
 Marie ontsnapt aan haar angst voor de dood en de russen door de boeken van haar vader te lezen. Alleen de angst voor de ziekte van haar moeder blijft en een paar weken later sterft haar moeder.
 
 Ze ondervindt dat het leven wreed is en alles wat het wil kan wegnemen.
+
+#### Hoofdstuk 12
+
+Als jonge moeder doet ze een ontdekking in de moderne wetenschap. De ontdekking houdt in dat er uranium stralen van onbekende oorsprong
+Hiernaar doen de Curies veel onderzoek. Ze Krijgen een beschutte werkplaats zonder comfort. Maar ze doen er alles aan om toch onderzoek te doen.Na enkele weken krijgen ze resultaat.
+
+Ze ontdekt dat de hoeveelheid uranium in de stof te bijinvloeden valt door belichting en temperatuur,ook ontdekt ze dat  dit een eigenschap is van een atoom.
+Ze beginnen opnieuw onderzoek en resulteren straling. Ze geven hier de naam *Radioactiviteit* aan en gaan verder met het onderzoek.
