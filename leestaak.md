@@ -19,4 +19,4 @@ Als jonge moeder doet ze een ontdekking in de moderne wetenschap. De ontdekking 
 Hiernaar doen de Curies veel onderzoek. Ze Krijgen een beschutte werkplaats zonder comfort. Maar ze doen er alles aan om toch onderzoek te doen.Na enkele weken krijgen ze resultaat.
 
 Ze ontdekt dat de hoeveelheid uranium in de stof te bijinvloeden valt door belichting en temperatuur,ook ontdekt ze dat  dit een eigenschap is van een atoom.
-Ze beginnen opnieuw onderzoek en resulteren straling. Ze geven hier de naam *Radioactiviteit* aan en gaan verder met het onderzoek.
+Ze beginnen opnieuw onderzoek en resulteren straling. Ze geven hier de naam **Radioactiviteit** aan en gaan verder met het onderzoek.
