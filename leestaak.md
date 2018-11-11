@@ -13,6 +13,15 @@ Marie maakt allerlei rampen mee in haar jeugd. Haar moeder ondergaat een tubercu
 Marie ontsnapt aan haar angst voor de dood en de russen door de boeken van haar vader te lezen. Alleen de angst voor de ziekte van haar moeder blijft en een paar weken later sterft haar moeder.
 
 Ze ondervindt dat het leven wreed is en alles wat het wil kan wegnemen.
+#### Hoofdstuk 8
+*Parijs*
+
+Als ze uit de trein stapt voelt ze zich vrij. Het geld dat ze had gespaart geeft ze uit aan de sorbonne. Ze start met de lessen op 3 november 1891.
+Ze leert veel, maar haar Frans in onvoldoende ook haar wiskunde en natuurkunde in niet geoed. Ze geniet maar het is moeilijk.
+Marie werkt hard en vind al snel een paar vrienden. Ze schrijft brieven aan haar vader en vertelt alles wat ze meemaakt.
+
+De kosten lopen op ; de verplaatsing, eten, verwarming, de lessen. Ze verhuist naar Quartier Latin vlakbij de universiteit. Bronya helpt Marie financieel veel vooruit en hieruit onstaat heel veel dankbaarheid.
+
 
 #### Hoofdstuk 12
 *Radium*
