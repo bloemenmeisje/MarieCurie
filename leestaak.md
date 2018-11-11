@@ -14,6 +14,7 @@ Marie ontsnapt aan haar angst voor de dood en de russen door de boeken van haar 
 
 Ze ondervindt dat het leven wreed is en alles wat het wil kan wegnemen.
 
+
 ## Hoofdstuk 8
 ### *Parijs*
 
