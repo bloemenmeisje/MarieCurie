@@ -22,3 +22,16 @@ Hiernaar doen de Curies veel onderzoek. Ze Krijgen een beschutte werkplaats zond
 
 Ze ontdekt dat de hoeveelheid uranium in de stof te bijinvloeden valt door belichting en temperatuur,ook ontdekt ze dat  dit een eigenschap is van een atoom.
 Ze beginnen opnieuw onderzoek en resulteren straling. Ze geven hier de naam **Radioactiviteit** aan en gaan verder met het onderzoek.
+Alle monsters die Uranium of Thorium bevatten zijn actief alle andere niet.
+
+Radioactiviteit bleek sterken dan ze hadden vermoed en herhaalt de de proeven wel 20 keer opnieuw.
+Ze ontdekt een andere stof met meer radioactiviteit erin dan uranium.
+Opnieuw gaat ze met haar nieuwschierigheid aan de slag.
+
+ze liet aan de Academie des Scienes weten van haar ontdekking en gaat aan de slag samen met haar echtgenoot starten ze proeven op.
+Ze zoeken in pekblende en vinden een radioactive stof die ze de naam **Polonium geven**.
+Maar ook na deze ontdekking blijven ze zoeken naar radioactieve stoffen . Maar na de zomer vakantie nemen ze vakantie om energie terug op te wekken.
+
+Bronya verhuist naar polen om een **stichting voor tuberculose patienten** op te vangen en op zoek te gaan naar oplossingen
+
+Op 26 december 1898 ontdekken ze de gezochte stof **Radium**.
