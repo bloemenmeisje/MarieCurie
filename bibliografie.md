@@ -1,6 +1,6 @@
 [Brief](brief.md) | [Biografie](biografie.md) | [Bronnen](bibliografie.md) | [Tijdlijn](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1E-iVJlxIhEdE5K3mXC_vnQod_FRKKTVz-mWdT42EE0s&font=Default&lang=nl&initial_zoom=2&height=650)
 
-## lijst geinformeerde boeken
+## Lijst geraadpleegde boeken
 
 ### Marie Curie 
 - Auteur: Birch, Beverley, Uitgever: Infodok, 64 pagina's, Nederlands, ISBN: 9789065653321 (ISBN10: 9065653325), Gepubliceerd in 1990. 
