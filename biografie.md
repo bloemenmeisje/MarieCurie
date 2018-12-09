@@ -32,14 +32,14 @@ Ze kreeg voor deze titel weinig waardering.
 
 ## Studententijd
 
-Op 24 jarige leeftijd  werd ze toegelaten op de Sorbonne. Ze verhuisde naar een klein zolderkamertje waar ze met weinig geld moest zien te overleven.
+Op 24 jarige leeftijd  werd ze toegelaten op de Sorbonne. Ze verhuisde naar een klein zolderkamertje waar ze met weinig geld moest zien te overleven. Ze had genoeg geld voor eten of voor verwarming, Dus de d warmte en het licht bleef ze zo lang mogelijk in de bibliotheek zitten.
 In 1893 was ze de beste van haar jaar voor natuurkunde. Het jaar daarop was ze 2de voor wiskunde. Ze werd hiervoort beloont door een kleine beurs zodat ze onderzoek kon doen naar het  magnetisme. Ze kreeg het advies om hulp te vragen aan de directeur van de school voor industriele Fysica en Chemie( Pierre Curie 1859-1906)
 
 ## Carriere en gezin
 
 In 1895 trouwden Marya (Marie noemde ze zichzelf) en Pierre Curie, ze hielden veel van elkaar en dit kwam ook tot uiting in het laboratorium.
 Voor hun huwelijk kregen ze van de ouders van Pierre 2 fietsen. Hun enige ontspanning was dan ook lange fietstochten door het platteland.
-Ze kregen samen 2 kinderen ,ève en irène
+Ze kregen samen 2 kinderen ,ève en irène. Ze waren een hecht gezin tot Pierre Curie overleed. Dit was als het ware een messteek in het hart van het gezin.
 
 Marie sloot het onderzoek naar magnetisme af  en begon onderzoek naar uranium stralen die Becquerel had ontdekt. Ze ontdekte dat dit een eigenschap was van een atoomkern en gaf de naam radioactiviteit aan dit fenomeen.
 
