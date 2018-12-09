@@ -20,11 +20,7 @@
 
 ### Canon van de natuurkunde
 #### De grootste ontdekkingen en theorieën van 100 belangrijke natuurkundigen
-- Herman De Lang, Vincent Icke E.A.
-- informatie wetenschap
-- volwassen 
-- uitgegeven door natuur & techniek
-
+- Auteur: Herman de Lang, Vincent Icke, Claudia Biemans, Tom Kortbeek, Ansfried Scheifes,Uitgever: Diemen : Veen Magazines,Nederlands ,ISBN: 9789085712350 ,gepubliceerd in 2010
  
 ### Bouwstenen van het atoom
 #### De wetten van de natuurkunde
