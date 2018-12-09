@@ -16,11 +16,7 @@
 
 ### Geschiedenis van de Wetenschap
 #### samengevat in de spectaculaire levens van 12 geleerden
-- Jack Meadows
-- informatie wetenschap
-- volwassenene
-- uitgeverij Uniepers Abcoude
-- samenwerking met Natuur & Techniek
+-Auteur: Jack Meadows,Uitgever: Natuur & Techniek, Nederlands, ISBN: 9789068251906,Gepubliciteerd in 1997
 
 ### Canon van de natuurkunde
 #### De grootste ontdekkingen en theorieën van 100 belangrijke natuurkundigen
@@ -28,7 +24,7 @@
 - informatie wetenschap
 - volwassen 
 - uitgegeven door natuur & techniek
-
+ 
 ### Bouwstenen van het atoom
 #### De wetten van de natuurkunde
 - Steven Weinberg
