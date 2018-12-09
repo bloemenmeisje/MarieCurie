@@ -4,6 +4,7 @@
 
 ### Marie Curie 
 - jeugd
+Auteur: Birch, Beverley, Uitgever: Infodok, 64 pagina's, Ingenaaid met harde kaft, Nederlands, ISBN: 9789065653321 (ISBN10: 9065653325), Gepubliceerd in 1990. 
 
 ### Blanche en Marie 
 - door Per Olov Enquist
