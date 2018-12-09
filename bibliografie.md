@@ -3,7 +3,7 @@
 ## lijst geinformeerde boeken
 
 ### Marie Curie 
-- Auteur: Birch, Beverley, Uitgever: Infodok, 64 pagina's, Ingenaaid met harde kaft, Nederlands, ISBN: 9789065653321 (ISBN10: 9065653325), Gepubliceerd in 1990. 
+- Auteur: Birch, Beverley, Uitgever: Infodok, 64 pagina's, Nederlands, ISBN: 9789065653321 (ISBN10: 9065653325), Gepubliceerd in 1990. 
 
 ### Blanche en Marie 
 - door Per Olov Enquist
@@ -16,6 +16,7 @@
 - Roman
 - volwassenen
 - uitgeverij Leopold-Den Haag
+- Auteur: Eve Curie,Willy Corsary, Uitgever: Leopold-Den Haag, Frans, ISBN: 9025801765, Gepubliciteerd in 1980
 
 ### Trotter: Polen
 - reisgids
