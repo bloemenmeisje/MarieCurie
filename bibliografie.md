@@ -9,7 +9,7 @@
 - Auteur: Per Olov Enquist,Oorspronkelijk Uitgever:Norstedts Förlag,Stockholm, 222 pagina's,Zweeds, ISBN: 9789026318955; gepubliciteerd in 2004
 
 ### Madame Curie
- Auteur: Eve Curie,Willy Corsary, Uitgever: Leopold-Den Haag, Frans, ISBN: 9025801765, Gepubliciteerd in 1980
+- Auteur: Eve Curie,Willy Corsary, Uitgever: Leopold-Den Haag, Frans, ISBN: 9025801765, Gepubliciteerd in 1980
 
 ### Trotter: Polen
 - reisgids
