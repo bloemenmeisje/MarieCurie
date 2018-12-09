@@ -12,11 +12,7 @@
 - uitgeverij Ambo-Amsterdam
 
 ### Madame Curie
-- door Eve Curie
-- Roman
-- volwassenen
-- uitgeverij Leopold-Den Haag
-- Auteur: Eve Curie,Willy Corsary, Uitgever: Leopold-Den Haag, Frans, ISBN: 9025801765, Gepubliciteerd in 1980
+ Auteur: Eve Curie,Willy Corsary, Uitgever: Leopold-Den Haag, Frans, ISBN: 9025801765, Gepubliciteerd in 1980
 
 ### Trotter: Polen
 - reisgids
