@@ -12,8 +12,7 @@
 - Auteur: Eve Curie,Willy Corsary, Uitgever: Leopold-Den Haag, Frans, ISBN: 9025801765, Gepubliciteerd in 1980
 
 ### Trotter: Polen
-- reisgids
-- uitgeverij Lannoo
+- Auteurs: Philippe Gloaguen, Petra Van Caneghem, Olivier Page, Uitgever: Lannoo,Tielt, Nederlands, ISBN: 9789401440103 , Gepubliciteerd in 2017
 
 ### Geschiedenis van de Wetenschap
 #### samengevat in de spectaculaire levens van 12 geleerden
