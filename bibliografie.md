@@ -32,7 +32,4 @@
 
 ### Het (on)begrensde Univerum
 #### De micro- en Macrokosmos in beeld gebracht
-- Gordon Fraser, Egil Lillestol, Inge Sellevag
-- informatie wtenschap
-- volwassenen
-- uitgegeven door Kosmos-Z&K Uitgevers,Utrecht/Antwerpen
+- Auteur: Gordon Fraser; Egil Lillestøl; Inge Sellevåg; Jacques Meerman, Uitgever:Utrecht, Kosmos-Z & K, Maastricht : Natuur & Techniek,ISBN: 9073035384, gepubliciteerd in 1995
