@@ -2,16 +2,19 @@
 
 # Biografie van Marie Curie
 
+Het leven van Marie Curie zit boordevol gebeurtenissen. Je zou bijna zeggen dat het een legende is.
+
 ![Marie Curie](afbeeldingen/mc_001.jpeg)
 
 ## Jeugd
 
-Marie Curie geboren als Marya Sklodowska is geboren op 7 november 1867 in Warschau. Ze was de jongste van 5 kinderen,haar moeder gaf hen thuis de kennis de ze moesen weten voor verder te kennen.Hun vader daarentegen was een leerkracht Natuurkunde en Wiskunde in een middelbare school .
-Zijn job werd een aantal keer zwaar verstoord door de opstanden van de poolse gemeenschap tegen de russische obezetting van polen. Russen zagen polen als een russische provincie en hierdoor werd het onderwijs verplicht in het russchish gegeven na een mislukte opstand .De hogere posities werden alleen nog maar ingenomen door russen en geen enkele pool kwam nog in aanmerking voor de hogere posities.
+Marie Curie geboren als Marya Sklodowska is geboren op 7 november 1867 in Warschau. Ze was de jongste van 5 kinderen,haar moeder gaf hen thuis de kennis de ze moesen weten voor verder te kunnen.Hun vader daarentegen was een leerkracht Natuurkunde en Wiskunde in een middelbare school .
+Zijn job werd een aantal keer zwaar verstoord door de opstanden van de poolse gemeenschap tegen de russische bezetting van polen. Russen zagen polen als een russische provincie en hierdoor werd het onderwijs verplicht in het russchisch gegeven na een mislukte opstand .De hogere posities werden alleen nog maar ingenomen door russen en geen enkele pool kwam nog in aanmerking voor de hogere posities.
 Haar moeder verdiende geld bij door directrische te zijn in een school waarin na enige tijd tyfus uitbrak.
 Haar oudste zus kreeg deze verschrikkelijke ziekte en stierf hieraan toen Marya was toen 8 jaar .
 2 Jaar later stierf haar moeder aan tuberculose . Deze tragedies overschaduwden de armoede in het gezin.
 
+Ze ging naar een school die beheerd werd door de russen. aak kwam een inspecteur langs voor te zien of de regels wel werden nagestreefd. Hierop vond deze school echter een oplossing, ze vonden een systeem met belletjes zodat ze net genoeg tijd hadden om boeken over polen en poolse cultuur weg te steken en hun naaiwerk boven te halen. TElkens als de inspecteur binnenkwam moest een leerling in het russisch het "onze vader" opzeggen. Omdat Marie goed was in russisch werd zij altijd uitgekozen waarna ze na een tijdje bang werd van de inspecteur en de russen.
 Op 15 jarige leeftijd verlieten zij en haar zus Bronya de middelbare school met zeer hoge cijfers.
 In die tijd was het onmogelijk om als vrouw te mogen gaan studeren en een beurs te krijgen dus moesten ze zelf alles zien te bolwerken. Zij en haar zus(Bronya) gingen naar de vliegende universiteit om meer kennis op te doen. De vliegende universiteit was een plek waar jongeren hun kennis uitwisselden zonder dat de russen er iets van wisten.
 Op 18 jarige leeftijd gaf ze haar zrgenloze levendje op om haar droom achterna te gaan studeren aan de universiteit . Ze ging als gouvernante werken op een suikerriet plantage ;om zo genoeg geld te kunnen verdienen dat zowel zij als Bronya naar de Sorbonne konden( universiteit Parijs) toen ze genoeg geld had voor 1 persoon  te kunnen laten overvliegen . Ze kozen ervoor om Bronya als 1ste te laten gaan om arts te worden. Zodat zij later ook kon overkomen met behulp van haar inkomen.
@@ -39,7 +42,9 @@ In 1893 was ze de beste van haar jaar voor natuurkunde. Het jaar daarop was ze 2
 
 In 1895 trouwden Marya (Marie noemde ze zichzelf) en Pierre Curie, ze hielden veel van elkaar en dit kwam ook tot uiting in het laboratorium.
 Voor hun huwelijk kregen ze van de ouders van Pierre 2 fietsen. Hun enige ontspanning was dan ook lange fietstochten door het platteland.
-Ze kregen samen 2 kinderen ,ève en irène. Ze waren een hecht gezin tot Pierre Curie overleed. Dit was als het ware een messteek in het hart van het gezin.
+Ze kregen samen 2 kinderen ,ève en irène. Bij ève's geboorte was marie 37 jaar. Wat betekende dat als ève groot werd haar moeder als het ware beroemd en een belangrijke vrouw was, Marie daarentegen vond dit niet belangrijk en gedroeg zich als de andere mensen van het volk. Ze waren een hecht gezin tot Pierre Curie overleed. Dit was als het ware een messteek in het hart van het gezin.
+
+Toen marie curie beroemd was zei Einstein: "Marie Curie is de enige van de beroemde mensen die niet bedorven is"
 
 Marie sloot het onderzoek naar magnetisme af  en begon onderzoek naar uranium stralen die Becquerel had ontdekt. Ze ontdekte dat dit een eigenschap was van een atoomkern en gaf de naam radioactiviteit aan dit fenomeen.
 
