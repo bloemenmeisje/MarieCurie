@@ -8,7 +8,7 @@ Het leven van Marie Curie zit boordevol gebeurtenissen. Je zou bijna zeggen dat 
 
 ## Jeugd
 
-Marie Curie geboren als Marya Sklodowska is geboren op 7 november 1867 in Warschau. Ze was de jongste van 5 kinderen,haar moeder gaf hen thuis de kennis de ze moesen weten voor verder te kunnen.Hun vader daarentegen was een leerkracht Natuurkunde en Wiskunde in een middelbare school .
+Marie Curie geboren als Marya Sklodowska is geboren op 7 november 1867 in Warschau. Ze was de jongste van 5 kinderen,haar moeder gaf hen thuis de kennis de ze moesen weten voor verder te kunnen.Hun vader daarentegen was een leerkracht Natuurkunde en Wiskunde in een middelbare school .Marie was een gezond,eerlijk,gevoelig,opgewekt en enorm begaaft meisje.
 Zijn job werd een aantal keer zwaar verstoord door de opstanden van de poolse gemeenschap tegen de russische bezetting van polen. Russen zagen polen als een russische provincie en hierdoor werd het onderwijs verplicht in het russchisch gegeven na een mislukte opstand .De hogere posities werden alleen nog maar ingenomen door russen en geen enkele pool kwam nog in aanmerking voor de hogere posities.
 Haar moeder verdiende geld bij door directrische te zijn in een school waarin na enige tijd tyfus uitbrak.
 Haar oudste zus kreeg deze verschrikkelijke ziekte en stierf hieraan toen Marya was toen 8 jaar .
