@@ -29,3 +29,8 @@
 ### Het (on)begrensde Univerum
 #### De micro- en Macrokosmos in beeld gebracht
 - Auteur: Gordon Fraser; Egil Lillestøl; Inge Sellevåg; Jacques Meerman, Uitgever:Utrecht, Kosmos-Z & K, Maastricht : Natuur & Techniek,ISBN: 9073035384, gepubliciteerd in 1995
+
+
+## bezochte websites
+
+https://isgeschiedenis.nl/nieuws/marie-curie
