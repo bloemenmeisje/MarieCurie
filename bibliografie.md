@@ -34,3 +34,5 @@
 ## bezochte websites
 
 https://isgeschiedenis.nl/nieuws/marie-curie
+
+https://nl.wikipedia.org/wiki/Marie_Curie
