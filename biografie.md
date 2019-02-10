@@ -134,9 +134,9 @@ Ze kreeg de mogelijkheid om les te gaan geven in Polen, maar daar bedankte ze vr
 Ze ging wel naar Warschau om een labo voor onderzoek naar radioavtiviteit te openen.
 In Parijs wordt er het Radiuminstituut opgericht. Marie wordt er directeur. Tijdens die periode reisde ze 2x naar de Verenigde Staten om geld bij elkaar te sprokkelen voor dat instituut.
 
-- Tijdens WO I runt ze samen met haar dochter Irene een mobiele röntgenfotodienst.
-
 - 1913 : Marie ontvangt het eredoctoraat aande universiteit van Birmingham.
+
+- Tijdens WO I runt ze samen met haar dochter Irene een mobiele röntgenfotodienst.
 
 - 1926 : Irene Curie huwt met de assistent van Marie Curie : Frederic Joliot.
 
