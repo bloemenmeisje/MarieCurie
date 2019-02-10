@@ -28,7 +28,7 @@
 - schooltijd en de vliegende universiteit |
 - studententijd |
 - carriere en gezin |
-- WOI en laatste levensjaren
+- WOI en laatste levensjaren |
 
 +++
 
@@ -37,6 +37,6 @@
 - atoomkern |
 - pekblende |
 - isoleren |
-- gevolgen 
+- gevolgen |
 
 
