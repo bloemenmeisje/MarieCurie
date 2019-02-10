@@ -22,10 +22,21 @@
 
 ## Biografie
 
-- geboren in Helsinki in Finland op 28 december 1969 |
-- Op 5 oktober 1991 maakte Torvalds de eerste release bekend |
-- 1997 naar Silicon Valley |
-- 2003 een fulltime baan bij Transmeta |
-- 2012 één van de twee winnaars van de Millennium Technology Prize |
+- geboren in Warshau in Polen op 7 december 1867 |
+- januari opstand in 1863 door rusland |
+- tragedies Marie's jeugd |
+- schooltijd en de vliegende universiteit |
+- studententijd |
+- carriere en gezin |
+- WOI en laatste levensjaren
 
----
++++
+
+### Radium
+
+- atoomkern |
+- pekblende |
+- isoleren |
+- gevolgen 
+
+
