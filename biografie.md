@@ -6,6 +6,29 @@ Het leven van Marie Curie zit boordevol gebeurtenissen. Je zou bijna zeggen dat 
 
 ![Marie Curie](afbeeldingen/mc_001.jpeg)
 
+## januari opstand in 1863
+
+De januari-opstand in 1863, ook wel powtanie styczniowe genoemd, was de grootste poolse opstand van de negentiende eeuw. Er waren enorm veel mensen bij betrokken. De plattelandsbevolking, de boeren, studenten en enkele politici en Poolse legerofficieren gingen tegen de Russische bezetter in. er waren ongeveer 200.000 mensen die in opstand kwamen, waarvan ongeveer 20.000 tot 30.000 echt een gewapende strijd voerden.
+De directe aanleiding voor deze opstand was de invoer van dienstplicht, door Alexander Wielopolski, voor de jonge poolse mannen in het leger van Rusland. De opstand liep uit op een mislukking, de poolse opstandelingen haalden geen enkele overwinning binnen.
+De opstand begon op 22 januari 1863 en eindigde in 1865, nadat de laatste mensen waren gearresteerd.
+
+## Gevolgen van de opstand
+
+
+### Negatieve gevolgen:
+     
+
+-  Er werd geen enkele overwinning behaald.
+
+-  Er vielen duizenden doden tijdens deze strijd.
+
+-  Er werd wraak genomen door de Russen: Er vonden openbare executies plaats en gevangenen werden naar Siberië gedeporteerd.
+
+### Positieve gevolgen:
+
+-  Door de opstandelijke sfeer waren er wel eerlijkere maatschappelijke verhoudingen voor de boeren afgedwongen. Dit was later ook de start om een definitieve omvorming van de sociale verhoudingen te komen, zoals de afschaffing van de lijfeigenschap van Poolse boeren.
+
+–          Poolse nationalisten verwachtten na de mislukte opstand geen heil meer te vinden in  revolutionaire acties, welke de situatie van Polen alleen maar deden verslechteren, en gingen zich geheel wijden aan organische veranderingen. Niet alleen voor de boeren, maar ook voor de vrouwen en de Joden in Polen. Deze groepen werden meer maatschappelijk betrokken. Dit zou de beperkingen op politiek gebied goedmaken.
 ## Jeugd
 
 Marie Curie werd geboren als Marya Sklodowska is geboren op 7 november 1867 in Warschau. Ze was de jongste van 5 kinderen,haar moeder gaf hen thuis de kennis de ze moesten weten om verder te kunnen. Hun vader daarentegen was een leerkracht Natuurkunde en Wiskunde in een middelbare school. Marie was een gezond,eerlijk,gevoelig,opgewekt en enorm begaafd meisje.
