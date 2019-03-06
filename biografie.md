@@ -28,7 +28,8 @@ De opstand begon op 22 januari 1863 en eindigde in 1865, nadat de laatste mensen
 
 -  Door de opstandelijke sfeer waren er wel eerlijkere maatschappelijke verhoudingen voor de boeren afgedwongen. Dit was later ook de start om een definitieve omvorming van de sociale verhoudingen te komen, zoals de afschaffing van de lijfeigenschap van Poolse boeren.
 
-–          Poolse nationalisten verwachtten na de mislukte opstand geen heil meer te vinden in  revolutionaire acties, welke de situatie van Polen alleen maar deden verslechteren, en gingen zich geheel wijden aan organische veranderingen. Niet alleen voor de boeren, maar ook voor de vrouwen en de Joden in Polen. Deze groepen werden meer maatschappelijk betrokken. Dit zou de beperkingen op politiek gebied goedmaken.
+-  Poolse nationalisten gingen na de mislukte opstand geen heil meer verwachtten in  revolutionaire acties. Dit deed  de situatie van Polen alleen maar slechter worden. Men ging zich volledig toeleggen aan allerlei veranderingen. Niet alleen voor de boeren, maar ook voor de vrouwen en de Joden in Polen vonden er veranderingen plaats, deze mensen werden steeds meer maatschappelijk betrokken.
+
 ## Jeugd
 
 Marie Curie werd geboren als Marya Sklodowska is geboren op 7 november 1867 in Warschau. Ze was de jongste van 5 kinderen,haar moeder gaf hen thuis de kennis de ze moesten weten om verder te kunnen. Hun vader daarentegen was een leerkracht Natuurkunde en Wiskunde in een middelbare school. Marie was een gezond,eerlijk,gevoelig,opgewekt en enorm begaafd meisje.
