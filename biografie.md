@@ -122,7 +122,7 @@ Daarom was het winnen van de Nobelprijs in 1903 zo belangrijk omdat er ook een s
 
 - 1875 : overlijden oudste zus Marie Curie
 
-- 1877 : Overlijden van haar moeder aan **tuberculose**
+- 1877 : Overlijden van haar moeder aan tuberculose
 
 - 1882 : verlaat school met hoge cijfers
 
