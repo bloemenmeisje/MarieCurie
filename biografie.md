@@ -126,7 +126,7 @@ Daarom was het winnen van de Nobelprijs in 1903 zo belangrijk omdat er ook een s
 
 - 1882 : verlaat school met hoge cijfers
 
-- 1882-1885 : gaat naar de "**vliegende universiteit**"
+- 1882-1885 : gaat naar de "vliegende universiteit"
 
 - 1885 : wordt gouvernante
 
