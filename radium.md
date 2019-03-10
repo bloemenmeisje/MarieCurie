@@ -14,45 +14,45 @@ Doordat radium in de chemie  veel overeenkomsten vertoont met calcium, wordt dit
 
 - Naam 	Radium
 
-- Symbool 	RA
+- Symbool : RA
 
-- Atoomnummer 	88
+- Atoomnummer : 88
 
-- Groep 	Aardalkalimetalen
+- Groep : Aardalkalimetalen
 
-- Reeks 	Aardalkalimetalen
+- Reeks : Aardalkalimetalen
 
-- Kleur 	Zilverwit
+- Kleur : Zilverwit
 
 ## Chemische eigenschappen
 
-- Atoommassa (u) 	226,03
+- Atoommassa (u) : 226,03
 
-- Elektronenconfiguratie 	[Rn]7s2
+- Elektronenconfiguratie : [Rn]7s2
 
-- Oxidatietoestanden 	+2
+- Oxidatietoestanden : +2
 
-- Elektronegativiteit (Pauling) 	0,9
+- Elektronegativiteit (Pauling) : 0,9
 
-- 2e ionisatiepotentiaal (kJ·mol−1) 	979,06
+- 2e ionisatiepotentiaal (kJ·mol−1) : 979,06
 
-- 1e ionisatiepotentiaal (kJ·mol−1) 	509,29
+- 1e ionisatiepotentiaal (kJ·mol−1) : 509,29
 
 ## Fysische eigenschappen
 
-- Dichtheid (kg·m−3) 	5000
+- Dichtheid (kg·m−3) : 5000
 
-- Smeltpunt (K) 	973
+- Smeltpunt (K) : 973
 
-- Kookpunt (K) 	1973
+- Kookpunt (K) : 1973
 
-- Aggregatietoestand 	Vast
+- Aggregatietoestand : Vast
 
-- Kristalstructuur 	Kub
+- Kristalstructuur : Kub
 
-- Molair volume (m3·mol−1) 	41,09 · 10−6
+- Molair volume (m3·mol−1) : 41,09 · 10−6
 
-- Elektrische weerstand (μΩ·cm) 	100
+- Elektrische weerstand (μΩ·cm) : 100
 
-- Warmtegeleiding (W·m−1·K−1) 	19
+- Warmtegeleiding (W·m−1·K−1) : 19
 
