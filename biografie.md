@@ -9,7 +9,7 @@ Het leven van Marie Curie zit boordevol gebeurtenissen. Je zou bijna zeggen dat 
 ## januari opstand in 1863
 
 De januari-opstand in 1863, ook wel powtanie styczniowe genoemd, was de grootste poolse opstand van de negentiende eeuw. Er waren enorm veel mensen bij betrokken. De plattelandsbevolking, de boeren, studenten en enkele politici en Poolse legerofficieren gingen tegen de Russische bezetter in. er waren ongeveer 200.000 mensen die in opstand kwamen, waarvan ongeveer 20.000 tot 30.000 echt een gewapende strijd voerden.
-De directe aanleiding voor deze opstand was de invoer van dienstplicht, door Alexander Wielopolski, voor de jonge poolse mannen in het leger van Rusland. De opstand liep uit op een mislukking, de poolse opstandelingen haalden geen enkele overwinning binnen.
+De directe aanleiding voor deze opstand was de invoer van dienstplicht, door Alexander Wielopolski, voor de jonge Poolse mannen in het leger van Rusland. De opstand liep uit op een mislukking, de Poolse opstandelingen haalden geen enkele overwinning binnen.
 De opstand begon op 22 januari 1863 en eindigde in 1865, nadat de laatste mensen waren gearresteerd.
 
 ## Gevolgen van de opstand
@@ -26,7 +26,7 @@ De opstand begon op 22 januari 1863 en eindigde in 1865, nadat de laatste mensen
 
 ### Positieve gevolgen:
 
--  Door de opstandelijke sfeer waren er wel eerlijkere maatschappelijke verhoudingen voor de boeren afgedwongen. Dit was later ook de start om een definitieve omvorming van de sociale verhoudingen te komen, zoals de afschaffing van de lijfeigenschap van Poolse boeren.
+-  Door de afstandelijke sfeer waren er wel eerlijkere maatschappelijke verhoudingen voor de boeren afgedwongen. Dit was later ook de start om een definitieve omvorming van de sociale verhoudingen te komen, zoals de afschaffing van de lijfeigenschap van Poolse boeren.
 
 -  Poolse nationalisten gingen na de mislukte opstand geen heil meer verwachtten in  revolutionaire acties. Dit deed  de situatie van Polen alleen maar slechter worden. Men ging zich volledig toeleggen aan allerlei veranderingen. Niet alleen voor de boeren, maar ook voor de vrouwen en de Joden in Polen vonden er veranderingen plaats, deze mensen werden steeds meer maatschappelijk betrokken.
 
