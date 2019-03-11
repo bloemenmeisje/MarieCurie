@@ -11,7 +11,7 @@ Radium, de meest radioactieve stof, heeft een vervalproduct: radon, dit is een k
 
 ## Kankerverwekkend
 
-Doordat radium in de chemie  veel overeenkomsten vertoont met calcium, wordt dit wel eens verwisseld met radium in het lichaam.Hierdoor kan het grote schade aanrichten in het lichaam, als het wordt ingebouwd in botten. Radium kan ook kankerverwekkend zijn. Bij het opslaan van radium is goede ventilatie in het lichaam een verplichting om te voorkomen dat er verhoogde concentraties van radon ontstaan.
+Doordat radium in de chemie  veel overeenkomsten vertoont met calcium, wordt dit wel eens verwisseld met radium in het lichaam. Hierdoor kan het grote schade aanrichten in het lichaam, als het wordt ingebouwd in botten. Radium kan ook kankerverwekkend zijn. Bij het opslaan van radium is goede ventilatie in het lichaam een verplichting om te voorkomen dat er verhoogde concentraties van radon ontstaan.
 
 ## eigenschappen
 
@@ -58,4 +58,3 @@ Doordat radium in de chemie  veel overeenkomsten vertoont met calcium, wordt dit
 - Elektrische weerstand (μΩ·cm) : 100
 
 - Warmtegeleiding (W·m−1·K−1) : 19
-
