@@ -5,7 +5,7 @@
 ## beschrijving van radium
 
 Radium is een scheikundig element met het symbool Ra en atoomnummer 88. Van radium, uranium, plutonium en thorium is radium de meest actieve stof. Het is een wit/zilverkleurig aardalkalimetaal(= een groep elementen uit het periodiek systeem die het gemeen hebben dat hun elektronenconfiguratie [X]ns2 is, waarbij [X] voor een edelgas staat. De twee elektronen in de buitenste s-subschil kunnen het atoom gemakkelijk verlaten waarbij de aardalkalimetalen tweewaardige kationen vormen).
-Radium, de meest radioactieve stof, heeft een vervalproduct: radon, dit is een kleur- en geurloos radioactief gas.
+Radium, de meest radioactieve stof, heeft een vervalproduct: radon, dit is een kleur- en geurloos radioactief gas. We noemen dit [radioactief verval](radioactiefverval.md).
 
 ![perodiek stelsel](afbeeldingen/perodiekstelsel.jpeg)
 
