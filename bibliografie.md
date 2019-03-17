@@ -2,10 +2,10 @@
 
 ## Lijst geraadpleegde boeken
 
-### Marie Curie 
-- Auteur: Birch, Beverley, Uitgever: Infodok, 64 pagina's, Nederlands, ISBN: 9789065653321 (ISBN10: 9065653325), Gepubliceerd in 1990. 
+### Marie Curie
+- Auteur: Birch, Beverley, Uitgever: Infodok, 64 pagina's, Nederlands, ISBN: 9789065653321 (ISBN10: 9065653325), Gepubliceerd in 1990.
 
-### Blanche en Marie 
+### Blanche en Marie
 - Auteur: Per Olov Enquist,Oorspronkelijk Uitgever:Norstedts Förlag,Stockholm, 222 pagina's,Zweeds, ISBN: 9789026318955; gepubliciteerd in 2004
 
 ### Madame Curie
@@ -21,7 +21,7 @@
 ### Canon van de natuurkunde
 #### De grootste ontdekkingen en theorieën van 100 belangrijke natuurkundigen
 - Auteur: Herman de Lang, Vincent Icke, Claudia Biemans, Tom Kortbeek, Ansfried Scheifes,Uitgever: Diemen : Veen Magazines,Nederlands ,ISBN: 9789085712350 ,gepubliceerd in 2010
- 
+
 ### Bouwstenen van het atoom
 #### De wetten van de natuurkunde
 - Auteur: Weinberg, Steven,Uitgever: Maastricht/Brussel, Natuur en Techniek  196 pagina's, ISBN: 9789070157531, Gepubliceerd in 1986
@@ -33,6 +33,12 @@
 
 ## bezochte websites
 
-[geschiedenis](https://isgeschiedenis.nl/nieuws/marie-curie)
+[Geschiedenis](https://isgeschiedenis.nl/nieuws/marie-curie)
 
-[wikipedia](https://nl.wikipedia.org/wiki/Marie_Curie)
+[Marie Curie - wikipedia](https://nl.wikipedia.org/wiki/Marie_Curie)
+
+[Radium - wikipedia](https://nl.wikipedia.org/wiki/Radium)
+
+[Isotopen van radium - wikipedia](https://nl.wikipedia.org/wiki/Isotopen_van_radium)
+
+[Halveringstijd - wikipedia](https://nl.wikipedia.org/wiki/Halveringstijd)
