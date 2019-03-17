@@ -6,7 +6,7 @@ Er zijn verschillende soorten radium (isotopen), de kortstlevende soort radium i
 
 Een kenmerk van radioactiviteit is dat de straling met de tijd afneemt. Dat regelt de natuur zelf. Hoe meer tijd er verstrijkt, hoe minder straling. Radium veranderd uit zichzelf na verloop van tijd in Radon. Dit is een natuurlijk proces dat we niet kunnen veranderen. In onderstaande figuur kan je zien dat Radium vervalt tot Radon, en daarna zal Radon weer vervallen tot andere elementen.
 
-![Marie Curie](afbeeldingen/verval_radioactieve elementen.png)
+![Marie Curie](afbeeldingen/verval_radioactieve_elementen.png)
 
 Hoe lang dat duurt, drukken we uit met halveringstijd. Dat is de tijd die nodig is om telkens de helft van de radioactiviteit kwijt te raken. Na twee halveringstijden is de radioactiviteit de helft van de helft. Dat is dus een kwart van de beginwaarde.
 
