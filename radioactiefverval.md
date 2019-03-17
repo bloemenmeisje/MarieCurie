@@ -1,4 +1,4 @@
-# Halveringstijd - halfwaardetijd
+# Radioactief verval - halfwaardetijd
 
 Het chemisch element radium (Ra), is niet stabiel en veranderd uit zichzelf tot een ander stof , radium zal nooit stabiel worden en steeds blijven veranderen. Met andere woorden, radium zal automatisch verdwijnen na verloop van tijd. Dit verdwijnen gebeurt door het uitzenden van deeltjes, we noemen dit radioactiviteit.
 
