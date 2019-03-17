@@ -10,6 +10,8 @@ Een kenmerk van radioactiviteit is dat de straling met de tijd afneemt. Dat rege
 
 Hoe lang dat duurt, drukken we uit met halveringstijd. Dat is de tijd die nodig is om telkens de helft van de radioactiviteit kwijt te raken. Na twee halveringstijden is de radioactiviteit de helft van de helft. Dat is dus een kwart van de beginwaarde.
 
+![Marie Curie](afbeeldingen/berekening_halfwaardetijd.png)
+
 Iedere radioactieve stof heeft een eigen vaste halveringstijd. Voor de ene stof zijn dat secondes, voor andere stoffen zijn dat duizenden jaren. Het ene radioactieve stofje is dus meteen als het ontstaat al ongevaarlijk. Ander radioactief materiaal moet je vele duizenden jaren opslaan voor het ophoudt met stralen.
 
 ![Marie Curie](afbeeldingen/radioactief_verval2.png)
