@@ -30,7 +30,7 @@
 - carriere en gezin |
 - WOI en laatste levensjaren |
 
-+++
+---
 
 ### Radium
 
