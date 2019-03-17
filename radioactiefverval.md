@@ -15,3 +15,5 @@ Hoe lang dat duurt, drukken we uit met halveringstijd. Dat is de tijd die nodig 
 Iedere radioactieve stof heeft een eigen vaste halveringstijd. Voor de ene stof zijn dat secondes, voor andere stoffen zijn dat duizenden jaren. Het ene radioactieve stofje is dus meteen als het ontstaat al ongevaarlijk. Ander radioactief materiaal moet je vele duizenden jaren opslaan voor het ophoudt met stralen.
 
 ![Marie Curie](afbeeldingen/radioactief_verval2.png)
+
+Radium is uiterst radioactief en het vervalproduct radon is een kleur- en geurloos radioactief gas. Doordat radium chemisch gezien veel overeenkomsten vertoont en in het lichaam verwisseld kan worden met calcium, kan het schade aanrichten als het wordt ingebouwd in botten. Daarnaast kan radium kankerverwekkend zijn. Bij het opslaan van radium is goede ventilatie een vereiste om te voorkomen dat er verhoogde concentraties van radon ontstaan. 
