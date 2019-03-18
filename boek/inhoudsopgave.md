@@ -9,17 +9,17 @@ Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootshe
 
 ### EERSTE DEEL
 
-- ![I. Mania](hfst01_mania_wordt_marie.md)
-- ![II. Sombere dagen](hfst02_sombere_dagen.md)
-- ![III. Meisjestijd](hfst03_meisjestijd.md)
-- ![IV. Roeping](hfst04_roeping.md)
-- ![V. Gouvernante](hfst05_gouvernante.md)
-- ![VI. De lange wachttijd](hfst06_de_lange_wachttijd.md)
-- ![VII. Vlucht](hfst07_vlucht.md)
+- [I. Mania](hfst01_mania_wordt_marie.md)
+- [II. Sombere dagen](hfst02_sombere_dagen.md)
+- [III. Meisjestijd](hfst03_meisjestijd.md)
+- [IV. Roeping](hfst04_roeping.md)
+- [V. Gouvernante](hfst05_gouvernante.md)
+- [VI. De lange wachttijd](hfst06_de_lange_wachttijd.md)
+- [VII. Vlucht](hfst07_vlucht.md)
 
 ### TWEEDE DEEL
 
-- ![VIII. Parijs](hfst08_parijs.md)
-- ![IX. Veertig roebel per maand](hfst09_40_roebel_per_maand.md)
-- ![X. Pierre Curie](hfst10_pierre_curie.md)
+- [VIII. Parijs](hfst08_parijs.md)
+- [IX. Veertig roebel per maand](hfst09_40_roebel_per_maand.md)
+- [X. Pierre Curie](hfst10_pierre_curie.md)
 
