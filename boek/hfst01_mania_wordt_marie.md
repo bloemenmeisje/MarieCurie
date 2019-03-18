@@ -1,4 +1,4 @@
-![Inhoud](inhoudsopgave.md) | ![volgende](hfst02_sombere_dagen.md)
+| [Inhoud](inhoudsopgave.md) | [volgende](hfst02_sombere_dagen.md)
 
 ## Hoofdstuk 1 : Mania wordt Marie
 
