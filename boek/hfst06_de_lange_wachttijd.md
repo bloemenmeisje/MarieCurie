@@ -1,4 +1,4 @@
-![Vorige](hfst05_gouvernante.md) | ![Inhoud](inhoudsopgave.md) | ![volgende](hfst07_vlucht.md)
+[Vorige](hfst05_gouvernante.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst07_vlucht.md)
 
 ## Hoofdstuk 6 : De lange wachttijd.
 
