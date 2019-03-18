@@ -1,5 +1,8 @@
 [Vorige](hfst05_gouvernante.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst07_vlucht.md)
 
+<div style="text-align: right">LEESTAAK</div>
+---
+
 ## Hoofdstuk 6 : De lange wachttijd.
 
 Marie geeft les, maar ze wil zelf ook weer opnieuw les krijgen. Ze wil gaan studeren aan de Sorbonne in Parijs. Ze wil Wiskunde, Sociologie, Chemie en Fysica gaan studeren in het land van de vrijheid, zonder bezetters in de buurt. 
