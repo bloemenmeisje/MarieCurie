@@ -1,4 +1,4 @@
-|---- |: ----:|----:|
+|---------------------------------------- |:--------------------------:|-----------------------------------:|
 | [Vorige](hfst09_40_roebel_per_maand.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst11_pierre_curie.md) |
 
 <div style="text-align: right">LEESTAAK</div>
