@@ -1,5 +1,8 @@
 [Vorige](hfst04_roeping.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst06_de_lange_wachttijd.md)
 
+<div style="text-align: right">LEESTAAK</div>
+---
+
 ## Hoofdstuk 5 : Gouvernante 
 
 Haar werk als lerares leert haar veel over mensen in het algemeen. Qua verstandigheid steekt Marie met kop en nek uit boven de gezinnen waar ze werkt. Ze zal lesgeven aan kinderen van gezinnen in Warschau. Zo kan ze dicht bij haar vader zijn, maar ook dichtbij de “vliegende universiteit”. 
