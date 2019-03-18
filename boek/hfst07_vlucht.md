@@ -1,4 +1,4 @@
-![Vorige](hfst06_de_lange_wachttijd.md) | ![Inhoud](inhoudsopgave.md) | ![Volgende](hfst08_parijs.md)
+[Vorige](hfst06_de_lange_wachttijd.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst08_parijs.md)
 
 ## Hoofdstuk 7 : Vlucht.
 
