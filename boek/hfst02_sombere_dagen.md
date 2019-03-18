@@ -1,4 +1,3 @@
-# DEEL 1: Mania wordt Marie
 ## Hoofdstuk 2: Sombere dagen.
 
 Marie en haar zus Helena gaan naar school op het instituut van juffrouw Sikorska, waar ze Pools onderwijs genieten.  Natuurlijk werd dit niet toegelaten omwille van de Russische overheersing. 
