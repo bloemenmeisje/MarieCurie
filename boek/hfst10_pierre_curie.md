@@ -1,5 +1,8 @@
 [Vorige](hfst09_40_roebel_per_maand.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst11_pierre_curie.md)
 
+<div style="text-align: right">LEESTAAK</div>
+---
+
 ## Hoofdstuk 10 : Pierre Curie
 
 Marie heeft tijdens haar tijd in Parijs alle liefde en vriendschap uit haar leven gebannen. Haar liefde was de wetenschap. Haar slechte ervaring met die ene familie in Polen heeft haar lang achtervolgd. Marie is in relaties voorzichtig, geniale vrouwen zijn ook zeldzaam.
