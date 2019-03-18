@@ -1,3 +1,6 @@
+![Vorige](hfst03_meisjestijd.md) | ![Inhoud](inhoudsopgave.md) | ![volgende](hfst05_gouvernante.md)
+
+
 ## Hoofdstuk 4 : Roeping
 
 Marie groeit van een gezond, eerlijk, gevoelig, opgewekt, begaafd en opmerkelijk meisje op tot een prachtige jongedame met heel veel grote dromen. Ze keert terug naar huis, naar haar vader en haar zus Helena en ze genieten samen van het delen van kennis. Vader Sklodowski blijft van nieuwe kennis houden en elke zaterdag komen alle kinderen samen bij hun vader om samen te praten over de nieuwe dingen die zich aandienen. Dit is een zeer belangrijk iets geweest in het leven van Marie. 
