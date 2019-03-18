@@ -1,3 +1,5 @@
+![Vorige](hfst08_parijs.md) | ![Inhoud](inhoudsopgave.md) | ![Volgende](hfst10_pierre_curie.md)
+
 ## Hoofdstuk 9 : 40 roebel per maand. (zeer weinig)
 
 Vanaf haar verhuis naar de Quartier Latin, naar de Rue Filatters, is het 3 jaar lang eenzaamheid troef. Alles draait rond haar studie en ze leeft heel armoedig.
