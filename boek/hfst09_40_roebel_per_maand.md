@@ -1,4 +1,4 @@
-![Vorige](hfst08_parijs.md) | ![Inhoud](inhoudsopgave.md) | ![Volgende](hfst10_pierre_curie.md)
+[Vorige](hfst08_parijs.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst10_pierre_curie.md)
 
 ## Hoofdstuk 9 : 40 roebel per maand. (zeer weinig)
 
