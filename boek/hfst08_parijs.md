@@ -1,5 +1,8 @@
 [Vorige](hfst07_vlucht.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst09_40_roebel_per_maand.md)
 
+<div style="text-align: right">LEESTAAK</div>
+---
+
 ## Hoofdstuk 8 : Parijs
 
 Bronia en haar echtgenoot Casimir wonen in La Vilette in Parijs. Marie stapt uit de trein aan de Gare du Nord. En ze voelt dat haar borst volledig opent. Ze voelt zich vrij, verlost van de dwangbuis van thuis. Ze ziet dat iedereen vrij rondloopt, iedereen praat in de taal van zijn/haar eigen keuze, de boekenwinkels hebben geen belemmering en er is een universiteit. Marie gebruikt haar gespaarde geld goed om zich in te schrijven in de Faculteit der Wiskunde en Natuurkunde.
