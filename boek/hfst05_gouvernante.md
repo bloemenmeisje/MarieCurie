@@ -1,4 +1,4 @@
-![Vorige](hfst04_roeping.md) | ![Inhoud](inhoudsopgave.md) | ![volgende](hfst06_de_lange_wachttijd.md)
+[Vorige](hfst04_roeping.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst06_de_lange_wachttijd.md)
 
 ## Hoofdstuk 5 : Gouvernante 
 
