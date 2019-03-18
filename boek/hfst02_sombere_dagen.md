@@ -1,4 +1,4 @@
-![Vorige](hfst01_mania_wordt_marie.md) | ![Inhoud](inhoudsopgave.md) | ![volgende](hfst03_meisjestijd.md)
+[Vorige](hfst01_mania_wordt_marie.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst03_meisjestijd.md)
 
 ## Hoofdstuk 2: Sombere dagen.
 
