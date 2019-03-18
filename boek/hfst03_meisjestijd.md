@@ -1,4 +1,4 @@
-![Vorige](hfst02_sombere_dagen.md) | ![Inhoud](inhoudsopgave.md) | ![volgende](hfst04_roeping.md)
+[Vorige](hfst02_sombere_dagen.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst04_roeping.md)
 
 
 ## Hoofdstuk 3 :  Meisjestijd.
