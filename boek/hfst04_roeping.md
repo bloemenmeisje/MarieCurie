@@ -1,4 +1,4 @@
-![Vorige](hfst03_meisjestijd.md) | ![Inhoud](inhoudsopgave.md) | ![volgende](hfst05_gouvernante.md)
+[Vorige](hfst03_meisjestijd.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst05_gouvernante.md)
 
 
 ## Hoofdstuk 4 : Roeping
