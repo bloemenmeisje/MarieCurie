@@ -1,5 +1,8 @@
 [Vorige](hfst06_de_lange_wachttijd.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst08_parijs.md)
 
+<div style="text-align: right">LEESTAAK</div>
+---
+
 ## Hoofdstuk 7 : Vlucht.
 
 Marie werkt nu al 3 jaar als gouvernante en ze ervaart het als eentonige jaren, waar weinig geld is, maar wel veel verdriet en zeer kleine vreugden en waar ze overstelpt wordt door werk. Maar er is verandering op til.
