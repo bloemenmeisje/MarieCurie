@@ -1,3 +1,8 @@
+[Vorige](hfst13_4_jaren_in_de_schuur.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst15_een_doctoraat.md)
+
+<div style="text-align: right">LEESTAAK</div>
+---
+
 ## Hoofdstuk 14 : Het moeilijke leven.
 
 Ondanks alle vorderingen in het onderzoek, blijft de Curies hun leven moeilijk. Naast het werk in de werkplaats/labo geeft Pierre ook nog les, want dat levert geld op dat ze nodig hebben. Maar ze hebben meer inkomsten nodig. En dus wil Pierre een gooi doen naar een leerstoel aan de universiteit en hoogleraar worden. Hij solliciteert maar hij wordt niet aangesteld. 
