@@ -1,6 +1,6 @@
 [Vorige](hfst06_de_lange_wachttijd.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst08_parijs.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 7 : Vlucht.
