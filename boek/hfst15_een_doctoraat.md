@@ -10,19 +10,16 @@ De Curies krijgen zelfs bekendheid in het buitenland. Ze worden bekend in Engela
 In de wetenschap in het algemeen worden heel veel ontdekkingen gedaan naar aanleiding van het werk van de Curies.
 Een lijstje daarvan: 
 
-– ontdekking van mesothorium
-
-– ontdekking van radiothorium
-
-– ontdekking van ionium
-
-– ontdekking van protoactinium
-– ontdekking van radiumlood
-– ontdekking van helium
-– onderzoek naar radioactieve vervormingen
-– ontwikkeling van warmte uit radiumlood
-– ontdekking van afdrukken op fotografische platen
-– ontdekking van besmettelijkheid van de radiumstraal
+- ontdekking van mesothorium
+- ontdekking van radiothorium
+- ontdekking van ionium
+- ontdekking van protoactinium
+- ontdekking van radiumlood
+- ontdekking van helium
+- onderzoek naar radioactieve vervormingen
+- ontwikkeling van warmte uit radiumlood
+- ontdekking van afdrukken op fotografische platen
+- ontdekking van besmettelijkheid van de radiumstraal
 
 Er ontstaat een grote verschuiving in theorieën omtrent vaste materie en onveranderlijke atomen. Zo wordt er ook ontdekt dat radium ook invloed heeft op de stofwisseling in het menselijk lichaam. Pierre stelt zich bloot aan het radium en krijgt overal brandwondjes. De huid op zijn handen vervelt,  hij krijgt een ontsteking van de vingertoppen en daarna afschilfering van de huid. Pierre en Marie gaan ook proefnemingen doen op dieren.
 
