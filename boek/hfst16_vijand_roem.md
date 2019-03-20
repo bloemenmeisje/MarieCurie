@@ -1,6 +1,6 @@
 [Vorige](hfst15_een_doctoraat.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst16_vijand_roem.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 16 : Vijand roem
