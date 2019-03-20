@@ -6,7 +6,7 @@
 ## Hoofdstuk 15 : Een doctoraat en een gesprek van 5 minuten.
 
 Tussen 1899 en 1904 groeit de radioactiviteit. Pierre en Marie publiceren in totaal 32 wetenschappelijke verslagen, de drang naar het weten en het genie wordt heel duidelijk.
-De Curies krijgen zelfs bekendheid in het buitenland. Ze worden bekend in Engeland, Duitsland, Oostenrijk, Denemarken…….. enz. 
+De Curies krijgen zelfs bekendheid in het buitenland. Ze worden bekend in Engeland, Duitsland, Oostenrijk, Denemarken.enz. 
 In de wetenschap in het algemeen worden heel veel ontdekkingen gedaan naar aanleiding van het werk van de Curies.
 Een lijstje daarvan: 
 
