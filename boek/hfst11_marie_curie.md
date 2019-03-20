@@ -2,6 +2,7 @@
 
 <div style="text-align: right">LEESTAAK</div>
 ---
+
 ## Hoofdstuk 11 : Marie Curie
 
 Marie is dolgelukkig met Pierre. In het begin van hun huwelijk zwerven ze rond op hun nieuwe fietsen langs Ile De France en picknicken er vaak. Ze genieten een beetje vakantie maar hebben toch ook een beetje aandacht voor hun omgeving. Pierre is een echte natuurmens en luieren is niet echt iets voor hem. Samen maken ze ook grote wandelingen en denken ze samen na over problemen met bv de kristallograaf. Dit speelt zich allemaal af rond juli 1895. In augustus van dat jaar genieten ze vakantie samen met Bronia in een huis bij Chantilly. Iedereen is dol op Pierre, hij leert op die vakantie zelfs een beetje Pools. Ook de ouders van Pierre leren hun schoondochter beter kennen en ze zijn helemaal dol op Marie. Ze zijn heel blij met de toevoeging aan hun familie, ze vinden haar oprecht en heel verstandig.
