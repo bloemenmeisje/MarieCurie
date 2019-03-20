@@ -1,6 +1,6 @@
 [Vorige](hfst12_radium.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst14_het_moeilijke_leven.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 13 :  Vier jaren in een schuur
