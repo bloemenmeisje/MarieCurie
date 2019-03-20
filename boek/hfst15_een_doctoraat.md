@@ -1,6 +1,6 @@
 [Vorige](hfst14_het_moeilijke_leven.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst16_vijand_roem.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 15 : Een doctoraat en een gesprek van 5 minuten
