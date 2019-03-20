@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK</div>
 ---
 
-## Hoofdstuk 13 :  4 jaren in de schuur.
+## Hoofdstuk 13 :  Vier jaren in een schuur.
 
 Om bewondering te krijgen van bepaalde, zeer kritische mensen in het vakgebied van Natuurkunde en Chemie, moet ze bewijs leveren. Daarvoor werken de Curies 4 jaar lang met als enige doel :  het verkrijgen van zuiver radium en polonium. Maar dan stelt zich het probleem van de grote hoeveelheden erts te vinden ? Waar gaan ze het onderzoek voeren en wie en hoe gaan ze het bekostigen ? 
 
