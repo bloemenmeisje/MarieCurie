@@ -11,8 +11,11 @@ In de wetenschap in het algemeen worden heel veel ontdekkingen gedaan naar aanle
 Een lijstje daarvan: 
 
 – ontdekking van mesothorium
+
 – ontdekking van radiothorium
+
 – ontdekking van ionium
+
 – ontdekking van protoactinium
 – ontdekking van radiumlood
 – ontdekking van helium
