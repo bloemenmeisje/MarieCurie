@@ -1,6 +1,6 @@
 [Vorige](hfst04_roeping.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst06_de_lange_wachttijd.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 5 : Gouvernante 
