@@ -1,3 +1,10 @@
+[Vorige](hfst11_marie_curie.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst13_4_jaren_in_de_schuur.md)
+
+<div style="text-align: right">LEESTAAK</div>
+---
+
+## Hoofdstuk 12 : Radium
+
 We schrijven 1897 en Marie heeft het enorm druk. Ze is een jonge moeder en ze wil, onder invloed van Pierre, helemaal gaan voor haar doctoraat. Marie is ook wie ze is en wil zijn zoals een ontdekkingsreiziger. Ze wil dus gaan in gebieden waar niemand nog nooit geweest is. Ze vindt een maagdelijk veld van onderzoek in een verhandeling van Henri Becquerel. Hij was een experimentele natuurkundige die ontdekte dat uranium-zouten spontaan licht verspreidde. Marie is geinteresseerd in de oorsprong van die stralen.
 
 Ze moet dan op zoek naar een lokaal waar ze proefnemingen kan doen. Dat is niet zo gemakkelijk te vinden. Ze krijgt een afgesloten werkplaats zonder enig comfort. Maar ze probeert toch alles op alles te zetten om haar onderzoek te kunnen voeren. Het is er moeilijk werken want sommige van haar instrumenten weigeren dienst omdat het te koud is in het lokaal.
