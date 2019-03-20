@@ -1,4 +1,4 @@
-[Vorige](hfst12_radium.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst14_het_moeilijke_ leven.md)
+[Vorige](hfst12_radium.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst14_het_moeilijke_leven.md)
 
 <div style="text-align: right">LEESTAAK</div>
 ---
