@@ -27,4 +27,11 @@ Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootshe
 - [VIII. Parijs](hfst08_parijs.md)
 - [IX. Veertig roebel per maand](hfst09_40_roebel_per_maand.md)
 - [X. Pierre Curie](hfst10_pierre_curie.md)
+- [XI. Madame Curie](hfst11_marie_curie.md)
+- [XII. Radium](hfst12_radium.md)
+- [XIII. Vier jaren in een schuur](hfst13_4_jaren_in_de_schuur.md)
+- [XIV. Het moeilijk leven](hfst14_het_moeilijke_leven.md)
+- [XV. Een doctoraat en een gesprek van vijf minuten](hfst15_een_doctoraat.md)
+- [XVI. Vijand Roem](hfst16_vijand_roem.md)
+
 
