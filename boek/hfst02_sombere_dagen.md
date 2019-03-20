@@ -1,6 +1,6 @@
 [Vorige](hfst01_mania_wordt_marie.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst03_meisjestijd.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 2: Sombere dagen.
