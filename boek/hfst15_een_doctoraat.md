@@ -1,3 +1,8 @@
+[Vorige](hfst14_het_moeilijke_leven.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst16_vijand_roem.md)
+
+<div style="text-align: right">LEESTAAK</div>
+---
+
 ## Hoofdstuk 15 : Een doctoraat en een gesprek van 5 minuten.
 
 Tussen 1899 en 1904 groeit de radioactiviteit. Pierre en Marie publiceren in totaal 32 wetenschappelijke verslagen, de drang naar het weten en het genie wordt heel duidelijk.
