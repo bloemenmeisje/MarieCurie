@@ -1,6 +1,6 @@
 [Vorige](hfst13_4_jaren_in_de_schuur.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst15_een_doctoraat.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 14 : Het moeilijke leven
