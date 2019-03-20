@@ -1,6 +1,6 @@
 [Vorige](hfst11_marie_curie.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst13_4_jaren_in_de_schuur.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 12 : Radium
