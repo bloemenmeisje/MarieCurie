@@ -1,6 +1,6 @@
 [Vorige](hfst10_pierre_curie.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst12_radium.md)
 
-<div style="text-align: right">LEESTAAK</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 11 : Madame Curie
