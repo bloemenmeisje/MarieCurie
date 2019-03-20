@@ -1,3 +1,10 @@
+[Vorige](hfst12_radium.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst14_het_moeilijke_ leven.md)
+
+<div style="text-align: right">LEESTAAK</div>
+---
+
+## Hoofdstuk 13 :  4 jaren in de schuur.
+
 Om bewondering te krijgen van bepaalde, zeer kritische mensen in het vakgebied van Natuurkunde en Chemie, moet ze bewijs leveren. Daarvoor werken de Curies 4 jaar lang met als enige doel :  het verkrijgen van zuiver radium en polonium. Maar dan stelt zich het probleem van de grote hoeveelheden erts te vinden ? Waar gaan ze het onderzoek voeren en wie en hoe gaan ze het bekostigen ? 
 
 Ze zijn zeer vindingrijk en dat is noodzakelijk om deze grote klus te klaren. Ze maken een overeenkomst met de directeur van een steenkoolmijn in Bohemen ( = Oostenrijk ), die het erts gratis leveren. En ze steken er zelf ook centjes in. Ze komen opnieuw terecht op de School voor Fysica, omdat Pierre daar werkt als leerkracht. Ze vinden er een werkplaats, aan een binnenplaats. Daar staat een gebouwtje dat vroeger werd gebruikt als sectiezaal. Er is geen vloer gelegd, er ligt enkel een dun laagje asfalt. Er staan enkele oude keukentafels en een oude gietijzeren kachel. Maar Marie is dolgelukkig, zelfs met deze werkplaats. Het gebouwtje is het toppunt van onbehaaglijkheid. In de zomer is het er snikheet  en in de winter is het er ijskoud en de regen valt gewoon binnen. Al die dingen zijn zeer slecht voor de gezondheid van Marie, vooral omdat ze aanleg heeft tot het ontwikkelen van TBC.
