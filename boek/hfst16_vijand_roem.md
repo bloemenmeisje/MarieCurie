@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK</div>
 ---
 
-## Hoofdstuk 16 : Vijand roem.
+## Hoofdstuk 16 : Vijand roem
 
 Zowel Marie als Pierre krijgen heel wat posities aangeboden en heel wat waarderingen vallen hen bij.
 
