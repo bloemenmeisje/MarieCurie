@@ -1,3 +1,8 @@
+| [Algemene vereisten](algemene_vereisten.md) | [Opdracht](../README.md) | [Inhoud van de eindversie](inhoud_eindversie.md)
+
+<div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
+---
+
 ## Inhoud van de eindversie
 
 - Verzorgd titelblad, met daarop minstens de naam van de betrokken persoon,… Je eigen naam, klas en schooljaar mogen bij op dit voorblad, maar kunnen ook op een ander blad komen.
