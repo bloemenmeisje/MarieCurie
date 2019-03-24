@@ -1,3 +1,8 @@
+| [Begeleiding](begeleiding.md) | [Opdracht](../README.md) | [Planning en te respecteren data](planning.md)
+
+<div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
+---
+
 ## Het beginpunt: een goede keuze
 
 De keuze van jouw onderwerp, mag je niet lichtzinnig maken. De meest interessante biografieën gaan juist over net iets minder populaire figuren. Neem dus rustig de tijd om te zoeken, een encyclopedie er bij te nemen, naslagwerken over favoriete thema’s van jou: sport, wetenschap, muziek, toneel, geschiedkundige figuren, ontdekkingsreizigers, enz. Of loop door een boekhandel om een  lijstje  aan te leggen van keuzemogelijkheden. Internet kan helpen om snel iets meer te weten over de persoon.
