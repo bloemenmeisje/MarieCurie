@@ -1,3 +1,8 @@
+| [Presentatie](presentatie.md) | [Opdracht](../README.md) | [Het beginpunt: een goede keuze](het_beginpunt.md)
+
+<div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
+---
+
 ## Begeleiding
 
 Bij het indienen van je voorstel vermeld je de motieven waarom je over die persoon graag een biografie zou schrijven (motivatiebrief).
