@@ -26,3 +26,10 @@ Het jaarwerk omvat ook een praktisch deel waarin je iets maakt of doet in navolg
 ## Meer info
 
 - [Algemene vereisten](opdracht/algemene_vereisten.md)
+- [Inhoud van de eindversie](opdracht/inhoud_eindversie.md)
+- [Vormvereisten](opdracht/vormvereisten.md)
+- [Praktisch deel](opdracht/praktisch_deel.md)
+- [Presentatie](opdracht/presentatie.md)
+- [Begeleiding](opdracht/begeleiding.md)
+- [Het beginpunt: een goede keuze](opdracht/het_beginpunt.md)
+- [Planning en te respecteren data](opdracht/planning.md)
