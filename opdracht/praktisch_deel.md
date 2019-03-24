@@ -1,4 +1,4 @@
-| [Vormvereisten](vormvereisten.md) | [Opdracht](../README.md) | [Begeleiding](begeleiding.md)
+| [Vormvereisten](vormvereisten.md) | [Opdracht](../README.md) | [Presentatie](presentatie.md)
 
 <div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
 ---
