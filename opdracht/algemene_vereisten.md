@@ -1,4 +1,4 @@
-| [Opdracht](README.md) | [Inhoud van de eindversie](inhoud_eindversie.md)
+| [Opdracht](../README.md) | [Inhoud van de eindversie](inhoud_eindversie.md)
 
 <div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
 ---
