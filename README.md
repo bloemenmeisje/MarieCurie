@@ -22,3 +22,7 @@ Ik heb voor Marie Curie gekozen omdat het me interesseert wat ze heeft gedaan. O
 Je schrijft een biografie (levensbeschrijving) over een persoon die je aanspreekt om wat hij/zij gerealiseerd heeft in zijn/haar leven. Je kiest iemand die al overleden is zodat je op zijn volledig leven kan terugblikken. Het is niet alleen de bedoeling om het verhaal en de gebeurtenissen in zijn of haar leven te vertellen, maar ook om een ‘rode draad’ in het leven te herkennen en te omschrijven.
 
 Het jaarwerk omvat ook een praktisch deel waarin je iets maakt of doet in navolging van jouw gekozen persoon. Het praktisch deel heeft ook een schriftelijke neerslag die je als laatste deel toevoegt aan je jaarwerk.
+
+## Meer info
+
+- [Algemene vereisten](opdracht/algemene_vereisten.md)
