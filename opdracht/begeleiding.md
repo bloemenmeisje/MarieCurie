@@ -1,4 +1,4 @@
-| [Presentatie](presentatie.md) | [Opdracht](../README.md) | [Het beginpunt: een goede keuze](het_beginpunt.md)
+[Presentatie](presentatie.md) | [Opdracht](../README.md) | [Het beginpunt: een goede keuze](het_beginpunt.md)
 
 <div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
 ---
