@@ -1,4 +1,4 @@
-| [Algemene vereisten](algemene_vereisten.md) | [Opdracht](../README.md) | [Vormvereisten](vormvereisten.md)
+[Algemene vereisten](algemene_vereisten.md) | [Opdracht](../README.md) | [Vormvereisten](vormvereisten.md)
 
 <div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
 ---
