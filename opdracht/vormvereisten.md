@@ -1,4 +1,4 @@
-| [Inhoud van de eindversie](inhoud_eindversie.md) | [Opdracht](../README.md) | [Praktisch deel](praktisch_deel.md)
+[Inhoud van de eindversie](inhoud_eindversie.md) | [Opdracht](../README.md) | [Praktisch deel](praktisch_deel.md)
 
 <div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
 ---
