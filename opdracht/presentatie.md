@@ -1,4 +1,4 @@
-| [Praktisch deel](praktisch_deel.md) | [Opdracht](../README.md) | [Begeleiding](begeleiding.md)
+[Praktisch deel](praktisch_deel.md) | [Opdracht](../README.md) | [Begeleiding](begeleiding.md)
 
 <div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
 ---
