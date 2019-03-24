@@ -1,3 +1,8 @@
+| [Het beginpunt: een goede keuze](het_beginpunt.md) | [Opdracht](../README.md) 
+
+<div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
+---
+
 ## Planning en te respecteren data
 
 ### Maandag 22 oktober 2018
