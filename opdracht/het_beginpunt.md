@@ -1,4 +1,4 @@
-| [Begeleiding](begeleiding.md) | [Opdracht](../README.md) | [Planning en te respecteren data](planning.md)
+[Begeleiding](begeleiding.md) | [Opdracht](../README.md) | [Planning en te respecteren data](planning.md)
 
 <div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
 ---
