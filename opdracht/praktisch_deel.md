@@ -1,3 +1,8 @@
+| [Vormvereisten](vormvereisten.md) | [Opdracht](../README.md) | [Begeleiding](begeleiding.md)
+
+<div style="text-align: right">PORTFOLIOWERK - HET JAARWERK: EEN BIOGRAFIE</div>
+---
+
 ## Praktisch deel
 
 Het praktische deel heeft de bedoeling om je op een andere manier kennis te laten maken met jouw persoon. Al doende.
