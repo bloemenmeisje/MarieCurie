@@ -22,8 +22,8 @@
 
 ## Biografie
 
-- geboren in Warshau in Polen op 7 december 1867 |
 - januari opstand in 1863 door rusland |
+- geboren: Warshau,Polen op 7 december 1867 |
 - tragedies Marie's jeugd |
 - schooltijd en de vliegende universiteit |
 - studententijd |
@@ -38,5 +38,10 @@
 - pekblende |
 - isoleren |
 - gevolgen |
+- halfwaardetijd |
+
++++
+
+- definitie
 
 
