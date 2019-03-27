@@ -38,12 +38,12 @@
 - pekblende |
 - isoleren |
 - gevolgen |
-- halfwaardetijd |
 
 +++
 
 - definitie |
 - radioactiefverval |
-- wiskundige formule |
+  - halfwaardetijd
+
 
 
