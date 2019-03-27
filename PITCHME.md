@@ -43,7 +43,7 @@
 +++
 
 - definitie |
--- radioactiefverval |
--- wiskundige formule |
+-  radioactiefverval |
+- wiskundige formule |
 
 
