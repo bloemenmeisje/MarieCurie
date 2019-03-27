@@ -42,6 +42,8 @@
 
 +++
 
-- definitie
+- definitie |
+-- radioactiefverval |
+-- wiskundige formule |
 
 
