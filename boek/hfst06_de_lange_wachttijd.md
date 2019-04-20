@@ -1,6 +1,7 @@
 [Vorige](hfst05_gouvernante.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst07_vlucht.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">EERSTE DEEL</div>
 ---
 
 ## Hoofdstuk 6 : De lange wachttijd
