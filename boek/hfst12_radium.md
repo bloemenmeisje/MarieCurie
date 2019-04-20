@@ -20,7 +20,7 @@ Dan gaat ze verder in haar onderzoek en ze begint de volledige verzameling miner
 
 Ze vertelt aan haar zus, Bronia haar geweldige ontdekking. Het is dus duidelijk dat er nog een ander natuurkundig element bestaat. In deze brief klinkt Marie helemaal anders dan in de haar beginjaren in Parijs, waar het leven zo moeilijk was. Het doorzettingsvermogen en zelfvertrouwen hebben voor Marie geleid tot dit moment.
 
-<div style="float: right; width: 60%;">
+<div style="float: right; transform: rotate(90deg); width: 60%;">
  <figure>
   <img src="./../afbeeldingen/radium.jpg" alt="Radium">
 </figure> 
