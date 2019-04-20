@@ -16,13 +16,13 @@ Madame Curie, het eenvoudige Poolse meisje, wier genie de gehele wereld in verba
 
 Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootsheid van haar karakter, haar bescheidenheid en haar doorzettingsvermogen. Het is een epos over een der grote figuren van de moderne tijd.
 
-<div style="float: left; width: 40%;">
+<div style="float: left;transform: rotate(90deg); width: 50%;">
  <figure>
   <img src="./../afbeeldingen/boek_marie_curie_eve_01.JPG" alt="Biografie van Marie Curie">
 </figure> 
 </div>
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 50%;">
  <figure>
   <img src="./../afbeeldingen/boek_marie_curie_eve_02.JPG.JPG" alt="Biografie van Marie Curie">
 </figure> 
