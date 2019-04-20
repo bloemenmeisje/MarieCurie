@@ -1,6 +1,7 @@
 [Vorige](hfst19_alleen.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst21_de_oorlog.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">DERDE DEEL</div>
 ---
 
 ##  Hoofdstuk 20 : Succes, beproeving 
