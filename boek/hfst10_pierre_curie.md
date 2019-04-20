@@ -1,6 +1,7 @@
 [Vorige](hfst09_40_roebel_per_maand.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst11_marie_curie.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">TWEEDE DEEL</div>
 ---
 
 ## Hoofdstuk 10 : Pierre Curie
