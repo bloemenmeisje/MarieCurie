@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 2: Sombere dagen
+## Hoofdstuk 2 : Sombere dagen
 
 Marie en haar zus Helena gaan naar school op het instituut van juffrouw Sikorska, waar ze Pools onderwijs genieten.  Natuurlijk werd dit niet toegelaten omwille van de Russische overheersing. 
 Marie is een uitstekende leerling op de school en ze zit zelfs 2 jaar verder. Op een dag komt op haar school een inspecteur voor bijzondere scholen in Warschau op bezoek. Alle Poolse boeken waaruit geleerd wordt, verdwijnen als de bliksem en plots zitten alle meisjes heel netjes te naaien. De meisjes worden ook getest in hun kennis van de Russische taal. Zo moeten ze bv het Onze Vader in het Russisch kunnen opzeggen. De inspecteur vindt dat superbelangrijk. Hij zegt ook dat het lezen en rekenen niet zo belangrijk is.
