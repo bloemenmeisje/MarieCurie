@@ -1,6 +1,7 @@
 [Vorige](hfst22_vrede_vakantie_larcouest.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst24_volle_wasdom.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">DERDE DEEL</div>
 ---
 
 ## Hoofdstuk 23 : Amerika
