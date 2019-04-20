@@ -1,4 +1,4 @@
-[Vorige](hfst15_een_doctoraat.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst16_vijand_roem.md)
+[Vorige](hfst15_een_doctoraat.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst17_alle_dagen.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
