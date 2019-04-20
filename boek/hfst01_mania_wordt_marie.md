@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 1 : Mania wordt Marie
+## Hoofdstuk 1 : Mania
 
 Op 7 november 1867 wordt Marie Sklodowski geboren in Warschau. Niet veel later wordt de moeder van Marie ziek, ze lijdt aan TBC en daarom zal Marie nooit geen kus krijgen van haar mama.
 
