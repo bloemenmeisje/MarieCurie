@@ -1,4 +1,4 @@
-[Vorige](hfst23_amerika.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst25_.md)
+[Vorige](hfst24_volle_wasdom.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst26_het_laboratorium.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
