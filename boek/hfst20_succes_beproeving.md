@@ -42,25 +42,25 @@ Ondertussen bereikt de roem van Marie een hoogtepunt in Frankrijk. En er wordt g
 
 Marie wil een prachtig labo met hoge ramen, waar veel licht kan door binnenvallen. Er moet ook een heerlijke tuin komen. Het instituut krijgt de naam : Institut du Radium – Pavilion Curie met als directrice Marie Curie.
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
  <figure>
   <img src="./../afbeeldingen/institut_radium.jpg" alt="Institut du Radium">
 </figure> 
 </div>
 
-<div style="float: right; transform: rotate(-90deg); width: 50%;">
+<div style="float: right; transform: rotate(-90deg); width: 60%;">
  <figure>
   <img src="./../afbeeldingen/institut_radium2.jpg" alt="Institut du Radium">
 </figure> 
 </div>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 100%;">
  <figure>
   <img src="./../afbeeldingen/tuin.JPG" alt="Marie in haar tuintje">
 </figure> 
 </div>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 100%;">
  <figure>
   <img src="./../afbeeldingen/labo.JPG" alt="Institut du Radium, het labo">
 </figure> 
