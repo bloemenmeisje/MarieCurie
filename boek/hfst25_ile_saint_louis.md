@@ -10,7 +10,7 @@ Marie wordt steeds meer overladen door roem, maar ze blijft altijd de vrouw die 
 
 Ze koopt een appartement op Ile Saint-Louis, ze zal er uiteindelijk 22 jaar wonen. Ze is wel blij met deze plek, omdat ze goed genoeg weet hoe het is om arm te zijn. Ze vult de kamers met allerlei geschenken die binnenstromen van overal. ( Vazen, schilderijen, tapijten, ... ). In het hele appartement staat er welgeteld 1 eigen aankoop. Een vleugelpiano die ze cadeau doet aan Eve. 
 
-<div style="float: right; transform: rotate(-90deg); width: 60%;">
+<div style="float: right; transform: rotate(-90deg); width: 100%;">
  <figure>
   <img src="./../afbeeldingen/ile_saint_louis.JPG" alt="Appartement op Ile Saint-Louis">
 </figure> 
