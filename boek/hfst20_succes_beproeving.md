@@ -41,3 +41,28 @@ Na die vakantie gaat Marie eerst naar Birmingham in Engeland om een doctorstitel
 Ondertussen bereikt de roem van Marie een hoogtepunt in Frankrijk. En er wordt gestart met de bouw van een radiuminstituut. Dat instituut zal bestaan uit 2 delen : enerzijds het instituut voor onderzoek naar radioactiviteit, anderzijds het laboratorium voor Curie-therapie, voor onderzoek tegen kanker.
 
 Marie wil een prachtig labo met hoge ramen, waar veel licht kan door binnenvallen. Er moet ook een heerlijke tuin komen. Het instituut krijgt de naam : Institut du Radium – Pavilion Curie met als directrice Marie Curie.
+
+<div style="float: left; width: 50%;">
+ <figure>
+  <img src="./../afbeeldingen/institut_radium.jpg" alt="Institut du Radium">
+</figure> 
+</div>
+
+<div style="float: right; width: 50%;">
+ <figure>
+  <img src="./../afbeeldingen/institut_radium2.jpg" alt="Institut du Radium">
+</figure> 
+</div>
+
+<div style="float: left; width: 50%;">
+ <figure>
+  <img src="./../afbeeldingen/tuin.jpg" alt="Marie in haar tuintje">
+</figure> 
+</div>
+
+<div style="float: right; width: 50%;">
+ <figure>
+  <img src="./../afbeeldingen/labo.jpg" alt="Institut du Radium, het labo">
+</figure> 
+</div>
+
