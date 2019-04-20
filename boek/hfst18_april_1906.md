@@ -2,6 +2,7 @@
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
+
 ## Hoofdstuk 18 : 19 april 1906
 
 Ze keren na hun vakantie terug naar Parijs en het weer is heel slecht. Hun drukke leven hervat terug en zowel Marie als Pierre zijn haastig bezig met al hun bezigheden.
