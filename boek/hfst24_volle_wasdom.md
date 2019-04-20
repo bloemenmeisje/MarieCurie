@@ -10,6 +10,12 @@ De reis naar de VS is een grote les geweest voor Marie. Ze beseft nu dat zij de 
 
 Naast alle officiële geplogenheden dwingt ze zichzelf om op haar reizen ook te genieten van de natuur.  Ze gaat naar Italië waar ze voor de eerste keer vliegende vissen ziet. Ze gaat in Rio de Janeiro zwemmen in een prachtige baai. Ze neemt deel aan het Solvay-congres in Brussel in 1927, waar ze veel gesprekken voert met geleerden, maar ze ontmoet er ook terug het koninklijke paar. Ze kennen mekaar van tijdens de oorlog.
 
+<div style="float: right; width: 100%;">
+ <figure>
+  <img src="./../afbeeldingen/solvay.jpg" alt="Solvay conferentie in 1927">
+</figure> 
+</div>
+
 Dan dient zich een belangrijk moment aan in het leven van Marie. Op 15 juni 1922 wordt Marie benoemd tot vice-president van de Internationale Commissie van de Intellectuele Samenwerking. Het is de eerste keer dat ze zulk een benoeming aanvaardt. Maar ze wil zich op dit moment ook gaan wijden aan de bevordering van internationale studiebeurzen op wetenschappelijk gebied en wetenschappelijke eigendom. Dat is voor Marie van groot belang voor de maatschappij.
 
 Ze vindt haar internationaal erg zwaar, maar ze vindt het ook nodig en groots. Ze onderneemt ook een aantal reizen naar Polen, waar in 1925 een eerstesteenlegging gebeurd van het radiuminstituut. Bronia wordt haar assistent in dat project en ze neemt alle rollen graag ter harte. Ze wordt Marie’s persoonlijke architecte, schatbewaarster enz. Marie geniet ervan, want hier is niet zoveel officiële stijfheid.
