@@ -6,7 +6,7 @@
 # Madame Curie
 door  ***Eve Curie***
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 40%;">
  <figure>
   <img src="./../afbeeldingen/boek_marie_curie_eve_org.JPG" alt="Originele biografie van Marie Curie door Eve">
 </figure> 
