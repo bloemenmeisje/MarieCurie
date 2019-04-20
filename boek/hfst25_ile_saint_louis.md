@@ -12,7 +12,7 @@ Ze koopt een appartement op Ile Saint-Louis, ze zal er uiteindelijk 22 jaar wone
 
 <div style="float: right; transform: rotate(-90deg); width: 60%;">
  <figure>
-  <img src="./../afbeeldingen/ile_saint_louis.jpg" alt="Appartement op Ile Saint-Louis">
+  <img src="./../afbeeldingen/ile_saint_louis.JPG" alt="Appartement op Ile Saint-Louis">
 </figure> 
 </div>
 
