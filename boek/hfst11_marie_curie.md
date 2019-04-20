@@ -1,6 +1,7 @@
 [Vorige](hfst10_pierre_curie.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst12_radium.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">TWEEDE DEEL</div>
 ---
 
 ## Hoofdstuk 11 : Madame Curie
