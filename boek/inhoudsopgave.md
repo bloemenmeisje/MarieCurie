@@ -6,8 +6,9 @@
 # Madame Curie
 door  ***Eve Curie***
 
+<div style="float: right;">
 ![Originele biografie van Marie Curie door Eve](./../afbeeldingen/boek_marie_curie_eve_org.JPG)
-
+</div>
 
 Madame Curie, het eenvoudige Poolse meisje, wier genie de gehele wereld in verbazing, wier ontdekking van het radium een zegen voor de mensheid betekende, heeft in deze beschrijving van haar leven door haar dochter een monument gekregen dat haar waardig is.
 
