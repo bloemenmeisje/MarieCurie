@@ -29,8 +29,21 @@ Nieuwe brief aan Irene/
 
 De meisjes keren terug naar Parijs, waar Eve terug naar school gaat en Irene haar verpleegstersdiploma haalt.
 
-Vanaf dan zijn de mobiele Roentgen-apparaten er. Ze worden ook wel de “kleine Curies” genoemd.
+<div style="float: right; width: 50%;">
+ <figure>
+  <img src="./../afbeeldingen/petite_curies.jpg" alt="mobiele Rontgen-apparaten">
+</figure> 
+</div>
+
+Vanaf dan zijn de mobiele Rontgen-apparaten er. Ze worden ook wel de “kleine Curies” genoemd.
 Marie jaagt iedereen op, want ze vindt dat er meer moeten komen. Ze is hardnekkig bezig met de vooruitgang van dit project. Heel wat edelmoedige vrouwen snellen haar ter hulp, geven hun limousines af en ook 1 Renault. Die houdt Marie voor zichzelf en ze vertrekt naar het front om daar foto’s te gaan nemen van de gewonde soldaten. Ze wordt een grote hulp voor dokters in de hospitalen. Ze werkt dagenlang. De 20 auto’s rijden rond, maar er worden ook 200 radiologische zalen ingericht. Op die manier worden er +/- 1 miljoen gewonde soldaten geholpen.
+
+<div style="float: left; width: 50%;">
+ <figure>
+  <img src="./../afbeeldingen/petite_curies2.jpg" alt="mobiele Rontgen-apparaten">
+</figure> 
+</div>
+
 Op 1 januari 1915 schrijft ze in een brief aan Paul Langevin dat ze alles in het werk wil stellen voor deze radiologische units. Midden januari bevindt ze zich aan het front in Amiens en Poperinge. In april 1915 komt Marie mokkend thuis, want 1 van de radiologische auto’s is kapot, drie dagen later is ze terug op pad.
 
 Ook Irene begint iets van radiologie te kennen en ze wordt het hulpje van Marie, later zal ze eigen opdrachten uitvoeren.
