@@ -1,6 +1,7 @@
 [Vorige](hfst08_parijs.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst10_pierre_curie.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">TWEEDE DEEL</div>
 ---
 
 ## Hoofdstuk 9 : Veertig roebel per maand.
