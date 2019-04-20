@@ -48,7 +48,7 @@ Marie wil een prachtig labo met hoge ramen, waar veel licht kan door binnenvalle
 </figure> 
 </div>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; transform: rotate(-90deg); width: 50%;">
  <figure>
   <img src="./../afbeeldingen/institut_radium2.jpg" alt="Institut du Radium">
 </figure> 
@@ -56,13 +56,13 @@ Marie wil een prachtig labo met hoge ramen, waar veel licht kan door binnenvalle
 
 <div style="float: left; width: 50%;">
  <figure>
-  <img src="./../afbeeldingen/tuin.jpg" alt="Marie in haar tuintje">
+  <img src="./../afbeeldingen/tuin.JPG" alt="Marie in haar tuintje">
 </figure> 
 </div>
 
 <div style="float: right; width: 50%;">
  <figure>
-  <img src="./../afbeeldingen/labo.jpg" alt="Institut du Radium, het labo">
+  <img src="./../afbeeldingen/labo.JPG" alt="Institut du Radium, het labo">
 </figure> 
 </div>
 
