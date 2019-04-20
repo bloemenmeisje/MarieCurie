@@ -1,6 +1,6 @@
 | [Inhoud](inhoudsopgave.md) | [volgende](hfst02_sombere_dagen.md)
 
-<div style="color:darkgrey; font-size:60%; text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 <div style="font-size:150%;text-align: center">EERSTE DEEL</div>
 ---
 
