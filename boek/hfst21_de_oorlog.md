@@ -1,4 +1,4 @@
-[Vorige](hfst20_success_beproeving.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst22_vrede_vakantie_larcouest.md)
+[Vorige](hfst20_succes_beproeving.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst22_vrede_vakantie_larcouest.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
