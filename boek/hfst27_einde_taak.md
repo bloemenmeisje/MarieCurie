@@ -1,6 +1,7 @@
 [Vorige](hfst26_het_laboratorium.md) | [Inhoud](inhoudsopgave.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">DERDE DEEL</div>
 ---
 
 ## Hoofdstuk 27 : Einde van de taak 
