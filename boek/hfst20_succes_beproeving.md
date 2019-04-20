@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-##  Hoofdstuk 20 : Succes en beproeving 
+##  Hoofdstuk 20 : Succes, beproeving 
 
 Ondanks alle medailles, benoemingen , aanbiedingen van professoraten, blijft Marie steeds dezelfde. Ze blijft steeds werken met dezelfde intensiteit, ze blijft mooi in haar eenvoud, blijft lesgeven op de meisjesschool.
 
