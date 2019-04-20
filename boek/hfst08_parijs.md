@@ -8,7 +8,15 @@
 
 Bronia en haar echtgenoot Casimir wonen in La Vilette in Parijs. Marie stapt uit de trein aan de Gare du Nord. En ze voelt dat haar borst volledig opent. Ze voelt zich vrij, verlost van de dwangbuis van thuis. Ze ziet dat iedereen vrij rondloopt, iedereen praat in de taal van zijn/haar eigen keuze, de boekenwinkels hebben geen belemmering en er is een universiteit. Marie gebruikt haar gespaarde geld goed om zich in te schrijven in de Faculteit der Wiskunde en Natuurkunde.
 
-Ze begint aan de colleges op 3 november 1891. Marie wordt een studente aan de Sorbonne.  Toch heeft ze een rare relatie met haar medestudenten. Ze kunnen Marie’s naam niet goed uitspreken, en ze is zo streng en sober gekleed. Men vindt haar raar, koppig en weinig spraakzaam. Maar Marie is natuurlijk niet geïnteresserd in haar medestudenten , ze heeft interesse in de professoren. Ze zit altijd vooraan in de klas en ze is enorm leergierig. Maar ze ontdekt enkele moeilijkheden. Haar kennis van het Frans is onvoldoende. Daardoor lukt het haar niet zo goed om de colleges te volgen. Ze beseft ook daar haar basiskennis van Wiskunde en Natuurkunde pover is. Maar ze geniet van elk moment en elk college.
+Ze begint aan de colleges op 3 november 1891. Marie wordt een studente aan de Sorbonne.  
+
+<div style="float: right; width: 40%;">
+ <figure>
+  <img src="./../afbeeldingen/sorbone_parijs.JPG" alt="Sorbonne in Parijs">
+</figure> 
+</div>
+
+Toch heeft ze een rare relatie met haar medestudenten. Ze kunnen Marie’s naam niet goed uitspreken, en ze is zo streng en sober gekleed. Men vindt haar raar, koppig en weinig spraakzaam. Maar Marie is natuurlijk niet geïnteresserd in haar medestudenten , ze heeft interesse in de professoren. Ze zit altijd vooraan in de klas en ze is enorm leergierig. Maar ze ontdekt enkele moeilijkheden. Haar kennis van het Frans is onvoldoende. Daardoor lukt het haar niet zo goed om de colleges te volgen. Ze beseft ook daar haar basiskennis van Wiskunde en Natuurkunde pover is. Maar ze geniet van elk moment en elk college.
 
 Bronia’s man schrijft een brief aan zijn schoonvader. Daarin schrijft hij dat Marie het goed stelt en dat ze heel ernstig werkt. Maar hij schrijft ook dat ze onafhankelijk is. Ze gehoorzaamt mij niet en ze toont geen eerbied aan mijn autoriteit, maar ondanks dat alles schieten we erg goed op.
 
