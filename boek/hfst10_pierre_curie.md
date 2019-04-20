@@ -27,6 +27,6 @@ In 1894 stelt Pierre de grote vraag en vraagt haar ten huwelijk. Maar Marie weig
 
 <div style="float: right; width: 100%;">
  <figure>
-  <img src="./../afbeeldingen/marie_pierre_curie_fietsen.JPG" alt="Sorbonne in Parijs">
+  <img src="./../afbeeldingen/marie_pierre_curie_fietsen.jpg" alt="Huwelijks kado">
 </figure> 
 </div>
