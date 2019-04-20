@@ -1,6 +1,7 @@
 [Vorige](hfst25_ile_saint_louis.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst27_einde_taak.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">DERDE DEEL</div>
 ---
 
 ## Hoofdstuk 26 : Het laboratorium
