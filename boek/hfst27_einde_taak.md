@@ -15,11 +15,23 @@ Haar dagen zijn zeer gevuld met werk, ze begint altijd heel vroeg en haar dagen 
 In december 1933 wordt Marie erg ziek. Ze heeft, volgens de dokter, galstenen. Ze probeert beter voor zichzelf te zorgen en ze besluit ook te gaan voor haar droomhuis op de lap grond die ze bezit in Sceaux. Ze besluit om daar een villa te laten bouwen.
 Marie is doodmoe, maar wil niet bewijzen dat ze ziek is en dus, gaat ze schaatsen in Versailles, gaat ze skiën in de Savoie met Irene en gaat ze ook met Bronia naar Zuid-Frankrijk. Die laatste reis breekt haar zuur op en zorgt voor de totale uitputting. Bronia zorgt voor haar zus.
 
+<div style="float: left; width: 60%;">
+ <figure>
+  <img src="./../afbeeldingen/patheon_mc2.jpg" alt="Pantheon Marie en Pierre Curie">
+</figure> 
+</div>
+
 Wanneer ze terug in Parijs zijn, zijn de dagen wisselend. Als Marie zich goed voelt, gaat ze werken in haar laboratorium. Als Marie zich ziek en slecht voelt, werkt ze thuis aan haar boek.
 Maar de koorts blijft toenemen en na lang aandringen van Eve en Irene, stemt ze toe om een dokter te zien. Die vertelt haar dat ze moet rusten, maar Marie wil dat niet. Ze wil werken in haar laboratorium.  Maar het gaat steeds slechter met Marie.
 En haar slechte gezondheid dwingt haar om in bed te blijven. Griep, bronchitis volgen elkaar op en dan wordt er overgegaan tot een totaal onderzoek. Dat geeft weinig resultaat, enkel een oude longaandoening zou de bron zijn van dit ziek zijn. Marie zegt toe om een bepaalde tijd door te brengen in een sanatorium.
 
 Terwijl ze in het ziekenhuis verblijft, in afwachting van een verblijf in het sanatorium, voert ze heel veel gesprekken met Irene en Frédéric over het laboratorium, over het huis in Sceaux, over haar boek. Ze klaagt niet, ze blijft erg bescheiden en haar kinderen ervaren Marie zoals ze echt is, nl. ongelooflijk edelmoedig en zacht.
+
+<div style="float: right; width: 60%;">
+ <figure>
+  <img src="./../afbeeldingen/patheon_mc.jpg" alt="Pantheon Marie en Pierre Curie">
+</figure> 
+</div>
 
 De reis naar het sanatorium wordt ondernomen, ondanks haar nog steeds verzwakkende gezondheid. Die reis is een ware marteling. Bij aankomst heeft ze koorts die tot boven de 40° reikt. Wanneer haar bloed onderzocht wordt, ziet men dat het aantal witte en rode bloedcellen erg gedaald zijn.
 
