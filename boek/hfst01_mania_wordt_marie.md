@@ -1,6 +1,6 @@
 | [Inhoud](inhoudsopgave.md) | [volgende](hfst02_sombere_dagen.md)
 
-<div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="text-align: left">EERSTE DEEL</div><div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
 ## Hoofdstuk 1 : Mania
