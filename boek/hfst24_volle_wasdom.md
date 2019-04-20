@@ -1,6 +1,7 @@
 [Vorige](hfst23_amerika.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst25_ile_saint_louis.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">DERDE DEEL</div>
 ---
 
 ## Hoofdstuk 24 : De volle wasdom
