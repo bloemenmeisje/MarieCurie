@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 25 : Ile Saint – Louis 
+## Hoofdstuk 25 : Ile Saint-Louis 
 
 Marie wordt steeds meer overladen door roem, maar ze blijft altijd de vrouw die door werk overkropt is en eenvoudig zal voor de rest van haar dagen.
 
