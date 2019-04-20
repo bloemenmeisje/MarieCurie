@@ -1,6 +1,7 @@
 [Vorige](hfst16_vijand_roem.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst18_april_1906.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">TWEEDE DEEL</div>
 ---
 
 ## Hoofdstuk 17 : Alle dagen 
