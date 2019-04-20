@@ -8,9 +8,21 @@
 
 Ondanks alle medailles, benoemingen , aanbiedingen van professoraten, blijft Marie steeds dezelfde. Ze blijft steeds werken met dezelfde intensiteit, ze blijft mooi in haar eenvoud, blijft lesgeven op de meisjesschool.
 
+<div style="float: left; width: 60%;">
+ <figure>
+  <img src="./../afbeeldingen/institut_radium.jpg" alt="Institut du Radium">
+</figure> 
+</div>
+
 Ze heeft ondanks haar eigen ervaringen, een niet zo hoge dunk van middelbaar onderwijs in Frankrijk. Het hoger onderwijs vindt ze stukken beter. Daar wil ze dan ook graag een bijdrage toe leveren.
 In 1908 geeft ze een boek uit met al het verzamelde werk van Pierre Curie. Ze geeft het uit als eerbetoon aan haar echtgenoot.
 In 1910 publiceert ze al haar lessen en maakt ze een indrukwekkende verhandeling van 981 bladzijden over radioactiviteit. In dat boek staat er echter geen portret van haarzelf, maar wel ééntje van Pierre.
+
+<div style="float: right; transform: rotate(-90deg); width: 60%;">
+ <figure>
+  <img src="./../afbeeldingen/institut_radium2.jpg" alt="Institut du Radium">
+</figure> 
+</div>
 
 De belangstelling voor Marie neemt steeds meer toe en ook het aantal studenten voor haar lessen neemt gestaag toe. Er worden zelfs vanuit de VS, via Andrew Carnegie, speciale beurzen ingelegd. 1 daarvan wordt toegekend aan Maurice Curie. Deze jongen  is de zoon van Jacques Curie, Marie’s schoonbroer. Hij begint aan zijn wetenschappelijke loopbaan met veel moederlijke toewijding van Marie. Zij krijgt daarbij veel hulp van André Debierne, haar assistent.
 
@@ -20,6 +32,12 @@ Dit alles zorgt voor nog meer roem voor Marie. Maar alle doctor-diploma’s, ere
 
 In 1910 krijgt ze een Legioen van Eer toegewezen, maar ze weigert het, net als Pierre haar voordeed. Ook in hetzelfde jaar wordt ze kandidaat voor de Academie Des Sciences. Dit neemt ze wel aan, omdat ze niet ondankbaar wil overkomen. Heel wat mensen vinden dat maar niks dat een vrouw toegelaten wordt in deze groep. Maar er zijn ook heel wat steunende factoren. Haar steunpilaren hier zijn : de wiskundige Henri Pancaré, Dokter Roux, Emile Picard, Professor Lipmann, enz.
 Er wordt een stemming georganiseerd op 23/1/1911 en met grote verstomming verneemt men dat ze niet is toegelaten. Maar Marie zwijgt erover in alle talen. Frankrijk lijkt Marie totaal niet naar waarde te schatten. Vanuit het buitenland echter krijgt ze veel erkenning voor haar werk.
+
+<div style="float: left; width: 100%;">
+ <figure>
+  <img src="./../afbeeldingen/tuin.JPG" alt="Marie in haar tuintje">
+</figure> 
+</div>
 
 Zo krijgt ze in december 1911 vanuit het Genootschap voor Exacte Wetenschappen in Stockholm de Nobelprijs voor Chemie toegekend. Deze krijgt ze als waardering voor haar werk na de dood van Pierre. Dat een vrouw voor de 2de keer een Nobelprijs krijgt toegewezen, is in heel de geschiedenis nog nooit gebeurd. Om haar prijs in ontvangst te nemen, reist de sterk verzwakte Marie, samen en Bronia en Iréne naar Zweden. Iréne zal 24 jaar later op dezelfde plek ook een Nobelprijs in ontvangst nemen.
 Marie wordt veelvuldig uitgenodigd op allerlei banketten en bijzondere feestelijkheden. Ze geeft ook een lezing waarin ze opnieuw refereert naar het waardevolle werk van Pierre.
@@ -36,33 +54,14 @@ In 1913 gaat ze wel naar Warschau voor de plechtige opening van het Paviljoen va
 
 In de zomer van 1913 onderneemt ze een vakantie naar Zwitserland. Ze doet samen met haar dochters en hun gouvernante een grote wandeltocht doorheen het Engadin. Albert Einstein en zijn zoon  maken de groep groter. Tijdens de reis ontstaat er een warme vriendschap tussen Einstein en Marie. Ze kunnen samen bepaalde theorieën aan elkaar vertellen en er dan ellenlange discussies over voeren.
 
-Na die vakantie gaat Marie eerst naar Birmingham in Engeland om een doctorstitel in ontvangst te nemen. Daarna gaat ze naar Brussel om enkele congressen bij te wonen. 
-
-Ondertussen bereikt de roem van Marie een hoogtepunt in Frankrijk. En er wordt gestart met de bouw van een radiuminstituut. Dat instituut zal bestaan uit 2 delen : enerzijds het instituut voor onderzoek naar radioactiviteit, anderzijds het laboratorium voor Curie-therapie, voor onderzoek tegen kanker.
-
-Marie wil een prachtig labo met hoge ramen, waar veel licht kan door binnenvallen. Er moet ook een heerlijke tuin komen. Het instituut krijgt de naam : Institut du Radium – Pavilion Curie met als directrice Marie Curie.
-
-<div style="float: left; width: 60%;">
- <figure>
-  <img src="./../afbeeldingen/institut_radium.jpg" alt="Institut du Radium">
-</figure> 
-</div>
-
-<div style="float: right; transform: rotate(-90deg); width: 60%;">
- <figure>
-  <img src="./../afbeeldingen/institut_radium2.jpg" alt="Institut du Radium">
-</figure> 
-</div>
-
-<div style="float: left; width: 100%;">
- <figure>
-  <img src="./../afbeeldingen/tuin.JPG" alt="Marie in haar tuintje">
-</figure> 
-</div>
-
 <div style="float: right; width: 100%;">
  <figure>
   <img src="./../afbeeldingen/labo.JPG" alt="Institut du Radium, het labo">
 </figure> 
 </div>
 
+Na die vakantie gaat Marie eerst naar Birmingham in Engeland om een doctorstitel in ontvangst te nemen. Daarna gaat ze naar Brussel om enkele congressen bij te wonen. 
+
+Ondertussen bereikt de roem van Marie een hoogtepunt in Frankrijk. En er wordt gestart met de bouw van een radiuminstituut. Dat instituut zal bestaan uit 2 delen : enerzijds het instituut voor onderzoek naar radioactiviteit, anderzijds het laboratorium voor Curie-therapie, voor onderzoek tegen kanker.
+
+Marie wil een prachtig labo met hoge ramen, waar veel licht kan door binnenvallen. Er moet ook een heerlijke tuin komen. Het instituut krijgt de naam : Institut du Radium – Pavilion Curie met als directrice Marie Curie.
