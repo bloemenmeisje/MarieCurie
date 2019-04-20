@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 9 : 40 roebel per maand. (zeer weinig)
+## Hoofdstuk 9 : 40 roebel per maand.
 
 Vanaf haar verhuis naar de Quartier Latin, naar de Rue Filatters, is het 3 jaar lang eenzaamheid troef. Alles draait rond haar studie en ze leeft heel armoedig.
 
