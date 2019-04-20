@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 7 : Vlucht.
+## Hoofdstuk 7 : Vlucht
 
 Marie werkt nu al 3 jaar als gouvernante en ze ervaart het als eentonige jaren, waar weinig geld is, maar wel veel verdriet en zeer kleine vreugden en waar ze overstelpt wordt door werk. Maar er is verandering op til.
 
