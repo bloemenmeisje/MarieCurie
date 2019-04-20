@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 24 : De volle wasdom.
+## Hoofdstuk 24 : De volle wasdom
 
 De reis naar de VS is een grote les geweest voor Marie. Ze beseft nu dat zij de basis is van een nieuwe wetenschap en dat er voor haar nu veel deuren geopend zijn. En daar wil ze in de toekomst gebruik van gaan maken. Ze woont wetenschappelijke congressen bij, ze geeft lezingen en ze neemt deel aan universitaire plechtigheden. Ze wordt gevierd en geroemd en ze maakt er gebruik van. Dat is voor Marie niet altijd gemakkelijk omwille van haar wankele gezondheid.  
 
