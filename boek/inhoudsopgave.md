@@ -28,6 +28,9 @@ Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootshe
 </figure> 
 </div>
 
+
+Een epos over een der grote figuren van de moderne tijd.
+
 ---
 
 ## Inhoud
