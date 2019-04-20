@@ -1,4 +1,4 @@
-[Vorige](hfst19_.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst1_de_oorlog.md)
+[Vorige](hfst19_alleen.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst21_de_oorlog.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
