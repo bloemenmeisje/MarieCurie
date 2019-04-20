@@ -33,5 +33,20 @@ Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootshe
 - [XIV. Het moeilijke leven](hfst14_het_moeilijke_leven.md)
 - [XV. Een doctoraat en een gesprek van vijf minuten](hfst15_een_doctoraat.md)
 - [XVI. Vijand Roem](hfst16_vijand_roem.md)
+- [XVII. Alle Dagen](hfst17_alle_dagen.md)
+- [XVIII. 19 april 1906](hfst18_april_1906.md)
+
+### DERDE DEEL
+
+- [XIX. Alleen](hfst19_alleen.md)
+- [XX. Succes, beproeving](hfst20_succes_beproeving.md)
+- [XXI. De oorlog](hfst21_de_oorlog.md)
+- [XXII. De vrede. Vakantie in Larcouest](hfst22_vrede_vakantie_larcouest.md)
+- [XXIII. Amerika](hfst23_amerika.md)
+- [XXIV. De volle wasdom](hfst24_volle_wasdom.md)
+- [XXV. Ile Saint-Louis](hfst25_ile_saint_louis.md)
+- [XXVI. Het laboratorium](hfst26_het_laboratorium.md)
+- [XXVII. Einde van de taak](hfst27_einde_taak.md)
+
 
 
