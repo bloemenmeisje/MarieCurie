@@ -1,6 +1,7 @@
 [Vorige](hfst15_een_doctoraat.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst17_alle_dagen.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">TWEEDE DEEL</div>
 ---
 
 ## Hoofdstuk 16 : Vijand Roem
