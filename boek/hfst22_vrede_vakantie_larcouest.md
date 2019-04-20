@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 22 : de vrede vakantie in Larcouest.
+## Hoofdstuk 22 : De vrede. Vakantie in Larcouest
 
 De wereld rond Marie wordt rustig na de woelige tijd van de oorlog. In 1919 wordt ze terug hoofd van het laboratorium en ze kan zich ook terug bezighouden met de opvoeding van haar dochters. Irene is nu 22 jaar en wil natuurkundige worden; Ze wil radium bestuderen en ze wordt een gevolmachtigde assistent voor Marie. Eve is wat moeilijker en veranderlijker.
 
