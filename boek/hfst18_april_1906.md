@@ -1,6 +1,7 @@
 [Vorige](hfst17_alle_dagen.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst19_alleen.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">TWEEDE DEEL</div>
 ---
 
 ## Hoofdstuk 18 : 19 april 1906
