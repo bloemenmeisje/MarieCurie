@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 26 : HET laboratorium
+## Hoofdstuk 26 : Het laboratorium
 
 Marie blijft haar werk in het laboratorium voortzetten. En elke ochtend, wanneer ze een voet zet in het laboratorium, wordt ze overspoeld door vragen van medewerkers en studenten. Maar Marie vindt dat niet erg, ze vindt het geweldig dat ze allemaal zo nieuwsgierig zijn en vol energie.
 
