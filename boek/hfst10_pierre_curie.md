@@ -25,7 +25,7 @@ Hij zag haar af en toe bij lezingen en zag haar ook aan het werk in het laborato
 
 In 1894 stelt Pierre de grote vraag en vraagt haar ten huwelijk. Maar Marie weigert want er zijn problemen in Polen. In oktober 1894 keert ze terug naar Parijs en begint dan te werken in het laboratorium van Lipmann. En Pierre wordt steeds verliefder, hij wil zelfs in Polen gaan wonen om bij Marie te kunnen zijn. Na 10 maanden volhouden zwicht Marie voor Pierre en in 1895 treden Marie en Pierre in het huwelijk. Het is een heel sober huwelijk, er is geen  gouden ring, geen huwelijksdiner en geen kerkelijke dienst. Er is wel een leuk kado voor hen beiden nl 2 goednieuwe fietsen.
 
-<div style="float: right; width: 100%;">
+<div style="float: right; width: 60%;">
  <figure>
   <img src="./../afbeeldingen/marie_pierre_curie_fietsen.jpg" alt="Huwelijks kado">
 </figure> 
