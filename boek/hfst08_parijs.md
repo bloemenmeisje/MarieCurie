@@ -10,7 +10,7 @@ Bronia en haar echtgenoot Casimir wonen in La Vilette in Parijs. Marie stapt uit
 
 Ze begint aan de colleges op 3 november 1891. Marie wordt een studente aan de Sorbonne.  
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 50%;">
  <figure>
   <img src="./../afbeeldingen/sorbone_parijs.JPG" alt="Sorbonne in Parijs">
 </figure> 
