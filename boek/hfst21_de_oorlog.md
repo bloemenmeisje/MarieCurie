@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 21 : De oorlog.
+## Hoofdstuk 21 : De oorlog
 
 Marie wil in augustus 1914 een villa huren in Bretagne om daar vakantie te houden. Marie stuurt Iréne en Eve, samen met een gouvernante en een keukenmeid al voorop, Marie wil eerst haar werk afronden. Maar de gebeurtenissen volgen elkaar op en Marie informeert haar dochter met lange brieven.
 
