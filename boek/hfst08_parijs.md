@@ -1,6 +1,7 @@
 [Vorige](hfst07_vlucht.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst09_40_roebel_per_maand.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">TWEEDE DEEL</div>
 ---
 
 ## Hoofdstuk 8 : Parijs
