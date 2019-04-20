@@ -22,7 +22,7 @@ Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootshe
 </figure> 
 </div>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 60%;">
  <figure>
   <img src="./../afbeeldingen/boek_marie_curie_eve_02.JPG.JPG" alt="Biografie van Marie Curie">
 </figure> 
