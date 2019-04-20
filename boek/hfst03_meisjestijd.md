@@ -1,6 +1,7 @@
 [Vorige](hfst02_sombere_dagen.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst04_roeping.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">EERSTE DEEL</div>
 ---
 
 ## Hoofdstuk 3 :  Meisjestijd
