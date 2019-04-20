@@ -1,6 +1,7 @@
 [Vorige](hfst21_de_oorlog.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst23_amerika.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
+<div style="font-size:150%;text-align: center">DERDE DEEL</div>
 ---
 
 ## Hoofdstuk 22 : De vrede. Vakantie in Larcouest
