@@ -14,7 +14,7 @@ door  ***Eve Curie***
 
 Madame Curie, het eenvoudige Poolse meisje, wier genie de gehele wereld in verbazing, wier ontdekking van het radium een zegen voor de mensheid betekende, heeft in deze beschrijving van haar leven door haar dochter een monument gekregen dat haar waardig is.
 
-Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootsheid van haar karakter, haar bescheidenheid en haar doorzettingsvermogen. Het is een epos over een der grote figuren van de moderne tijd.
+Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootsheid van haar karakter, haar bescheidenheid en haar doorzettingsvermogen.
 
 <div style="float: left;transform: rotate(90deg); width: 50%;">
  <figure>
