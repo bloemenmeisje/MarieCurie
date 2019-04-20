@@ -1,4 +1,4 @@
-[Vorige](hfst23_amerika.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst25_.md)
+[Vorige](hfst23_amerika.md) | [Inhoud](inhoudsopgave.md) | [Volgende](hfst25_ile_saint_louis.md)
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
