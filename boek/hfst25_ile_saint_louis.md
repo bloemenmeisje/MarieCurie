@@ -10,6 +10,12 @@ Marie wordt steeds meer overladen door roem, maar ze blijft altijd de vrouw die 
 
 Ze koopt een appartement op Ile Saint-Louis, ze zal er uiteindelijk 22 jaar wonen. Ze is wel blij met deze plek, omdat ze goed genoeg weet hoe het is om arm te zijn. Ze vult de kamers met allerlei geschenken die binnenstromen van overal. ( Vazen, schilderijen, tapijten, ... ). In het hele appartement staat er welgeteld 1 eigen aankoop. Een vleugelpiano die ze cadeau doet aan Eve. 
 
+<div style="float: right; transform: rotate(-90deg); width: 60%;">
+ <figure>
+  <img src="./../afbeeldingen/ile_saint_louis.jpg" alt="Appartement op Ile Saint-Louis">
+</figure> 
+</div>
+
 1 kamer eigent ze zich toe en dat is haar eigen werkkamer. Dat wordt volgepropt met boeken, oude meubels die nog toebehoorde aan de vader van Pierre en een portret van Pierre.
 
 Marie heeft bij het appartement zelfs een dienstbode en een chauffeur. Die brengt haar elke dag om 8.00 u stipt met de auto naar haar laboratorium. Ze hoeft eigenlijk niet meer te werken, want ze ontvangt een staatspensioen en een toelage vanuit de Verenigde Staten. Maar ze wil blijven werken.
