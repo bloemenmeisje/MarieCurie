@@ -20,6 +20,12 @@ Dan gaat ze verder in haar onderzoek en ze begint de volledige verzameling miner
 
 Ze vertelt aan haar zus, Bronia haar geweldige ontdekking. Het is dus duidelijk dat er nog een ander natuurkundig element bestaat. In deze brief klinkt Marie helemaal anders dan in de haar beginjaren in Parijs, waar het leven zo moeilijk was. Het doorzettingsvermogen en zelfvertrouwen hebben voor Marie geleid tot dit moment.
 
+<div style="float: right; width: 60%;">
+ <figure>
+  <img src="./../afbeeldingen/radium.jpg" alt="Radium">
+</figure> 
+</div>
+
 Voor dit werk en haar ontdekking krijgt ze een vermelding tijdens een zitting van 12 april 1898 aan de Académie des Sciences.
 
 De titel van het stuk luidt : “ Er zijn 2 mineralen ontdekt in uranium : pekblende en chalcoliet.” Deze stoffen zijn allebei veel actiever dan uranium zelf, in deze mineralen zit een stof die actiever is dan uranium. Daar zal haar onderzoek nu verder om draaien, Ze wil die stof ontraadselen, door het nemen van proefnemingen en die zullen leiden tot bewijs. In dit heel proces krijgt Marie hulp van haar man, Pierre. Samen besteden ze 8 jaar lang van hun tijd in de kleine, vochtige werkplaats waar ze niets anders doen dan samen notities nemen, samen onderzoekingen doen en ze vormen samen daarin een geweldig team.
