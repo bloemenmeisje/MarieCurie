@@ -2,6 +2,7 @@
 
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
+
 ## Hoofdstuk 19 : Alleen
 
 Nu, na het overlijden van haar man staat ze er alleen voor. Ze moet haar 2 kleine kinderen alleen opvoeden, ze zorgt voor haar schoonvader die bij hen inwoonde. Ze moet brood op de plank brengen en haar professoraat vervullen. Daarnaast moet ze ook een laboratorium oprichten waar het werk van Pierre kan voortgezet worden. Dit alles is veel werk, maar nog moeilijker dan vroeger met Pierre. 
