@@ -3,7 +3,7 @@
 <div style="text-align: right">LEESTAAK - SAMENVATTING</div>
 ---
 
-## Hoofdstuk 6 : De lange wachttijd.
+## Hoofdstuk 6 : De lange wachttijd
 
 Marie geeft les, maar ze wil zelf ook weer opnieuw les krijgen. Ze wil gaan studeren aan de Sorbonne in Parijs. Ze wil Wiskunde, Sociologie, Chemie en Fysica gaan studeren in het land van de vrijheid, zonder bezetters in de buurt. 
 
