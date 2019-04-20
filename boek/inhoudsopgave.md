@@ -18,13 +18,13 @@ Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootshe
 
 <div style="float: left; width: 40%;">
  <figure>
-  <img src="./../boek_marie_curie_eve_01.JPG" alt="Biografie van Marie Curie">
+  <img src="boek_marie_curie_eve_01.JPG" alt="Biografie van Marie Curie">
 </figure> 
 </div>
 
 <div style="float: right; width: 40%;">
  <figure>
-  <img src="./../boek_marie_curie_eve_02.JPG.JPG" alt="Biografie van Marie Curie">
+  <img src="boek_marie_curie_eve_02.JPG.JPG" alt="Biografie van Marie Curie">
 </figure> 
 </div>
 
