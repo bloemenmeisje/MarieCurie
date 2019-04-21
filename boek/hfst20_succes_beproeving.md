@@ -6,7 +6,7 @@
 
 ##  Hoofdstuk 20 : Succes, beproeving 
 
-Ondanks alle medailles, benoemingen , aanbiedingen van professoraten, blijft Marie steeds dezelfde. Ze blijft steeds werken met dezelfde intensiteit, ze blijft mooi in haar eenvoud, blijft lesgeven op de meisjesschool.
+Ondanks alle medailles, benoemingen , aanbiedingen van professoraten, blijft Marie steeds dezelfde. Ze blijft steeds werken met dezelfde werklust, ze blijft mooi in haar eenvoud en ze  blijft lesgeven op de meisjesschool.
 
 <div style="float: left; width: 60%;">
  <figure>
@@ -14,8 +14,11 @@ Ondanks alle medailles, benoemingen , aanbiedingen van professoraten, blijft Mar
 </figure> 
 </div>
 
-Ze heeft ondanks haar eigen ervaringen, een niet zo hoge dunk van middelbaar onderwijs in Frankrijk. Het hoger onderwijs vindt ze stukken beter. Daar wil ze dan ook graag een bijdrage toe leveren.
+Ze heeft niet zoveel respect voor het middelbaar onderwijs in Frankrijk. Het hoger onderwijs vindt ze stukken beter.
+Daar wil ze dan ook graag een bijdrage toe leveren.
+
 In 1908 geeft ze een boek uit met al het verzamelde werk van Pierre Curie. Ze geeft het uit als eerbetoon aan haar echtgenoot.
+
 In 1910 publiceert ze al haar lessen en maakt ze een indrukwekkende verhandeling van 981 bladzijden over radioactiviteit. In dat boek staat er echter geen portret van haarzelf, maar wel ééntje van Pierre.
 
 <div style="float: right; transform: rotate(-90deg); width: 60%;">
@@ -24,9 +27,9 @@ In 1910 publiceert ze al haar lessen en maakt ze een indrukwekkende verhandeling
 </figure> 
 </div>
 
-De belangstelling voor Marie neemt steeds meer toe en ook het aantal studenten voor haar lessen neemt gestaag toe. Er worden zelfs vanuit de VS, via Andrew Carnegie, speciale beurzen ingelegd. 1 daarvan wordt toegekend aan Maurice Curie. Deze jongen  is de zoon van Jacques Curie, Marie’s schoonbroer. Hij begint aan zijn wetenschappelijke loopbaan met veel moederlijke toewijding van Marie. Zij krijgt daarbij veel hulp van André Debierne, haar assistent.
+De belangstelling voor Marie neemt steeds meer toe en ook het aantal studenten voor haar lessen neemt ongelooflijk toe. Er worden zelfs vanuit de VS, via Andrew Carnegie, speciale beurzen ingelegd. 1 daarvan wordt toegekend aan Maurice Curie. Deze jongen  is de zoon van Jacques Curie, Marie’s schoonbroer. Hij begint aan zijn wetenschappelijke loopbaan met veel moederlijke toewijding van Marie. Zij krijgt daarbij veel hulp van André Debierne, haar assistent.
 
-André zal haar helpen om zuiver radium te bereiden en om polonium te bestuderen. Het resultaat van hun werk is een publicatie. Het omvat een classificatie van radio elementen, een Tabel van de radioactieve grootheden en de bereiding van een interne standaardmaat voor radium.
+André zal haar helpen om zuiver Radium te bereiden en om Polonium te bestuderen. Het resultaat van hun werk is een publicatie.
 
 Dit alles zorgt voor nog meer roem voor Marie. Maar alle doctor-diploma’s, erelidmaatschapsbewijzen zeggen haar niks. Ze ontvangt ze en daarna vinden ze een plek in de kast.
 
