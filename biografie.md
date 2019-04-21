@@ -8,7 +8,7 @@ Het leven van Marie Curie zit boordevol gebeurtenissen. Je zou bijna zeggen dat 
 
 ## januari opstand in 1863
 
-De januari-opstand in 1863, ook wel Powtanie sSyczniowe genoemd, was de grootste Poolse opstand van de negentiende eeuw. Er waren enorm veel mensen bij betrokken. De plattelandsbevolking, de boeren, studenten en enkele politici en Poolse legerofficieren gingen tegen de Russische bezetter in. Er waren ongeveer 200.000 mensen die in opstand kwamen, waarvan ongeveer 20.000 tot 30.000 echt een gewapende strijd voerden.
+De januari-opstand in 1863, ook wel Powtanie Syczniowe genoemd, was de grootste Poolse opstand van de negentiende eeuw. Er waren enorm veel mensen bij betrokken. De plattelandsbevolking, de boeren, studenten en enkele politici en Poolse legerofficieren gingen tegen de Russische bezetter in. Er waren ongeveer 200.000 mensen die in opstand kwamen, waarvan ongeveer 20.000 tot 30.000 echt een gewapende strijd voerden.
 De directe aanleiding voor deze opstand was de invoer van dienstplicht, door Alexander Wielopolski, voor de jonge Poolse mannen in het leger van Rusland. De opstand liep uit op een mislukking, de Poolse opstandelingen haalden geen enkele overwinning binnen.
 De opstand begon op 22 januari 1863 en eindigde in 1865, nadat de laatste mensen waren gearresteerd.
 
