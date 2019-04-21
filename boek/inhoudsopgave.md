@@ -12,9 +12,9 @@ door  ***Eve Curie***
 </figure> 
 </div>
 
-Madame Curie, het eenvoudige Poolse meisje, wier genie de gehele wereld in verbazing, wier ontdekking van het radium een zegen voor de mensheid betekende, heeft in deze beschrijving van haar leven door haar dochter een monument gekregen dat haar waardig is.
+Madame Curie, het eenvoudige Poolse meisje, maar later een waar genie bleek. Ze bracht de gehele wereld in verbazing. Haar  ontdekking van het radium betekende een grote zegen voor de mensheid. In dit boek heefthaar dochter een beschrijving gegeven van haar leven en zo een monument gekregen dat haar waardig is.
 
-Dit boek is boeiender dan menig roman. Bovenal komt er in tot uiting de grootsheid van haar karakter, haar bescheidenheid en haar doorzettingsvermogen.
+Dit boek is boeiender dan veel andere romans. Bovenal komt er in tot uiting de grootsheid van haar karakter, haar bescheidenheid en haar doorzettingsvermogen.
 
 <div style="float: left;transform: rotate(90deg); width: 50%;">
  <figure>
