@@ -1,0 +1,165 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Biografie van Marie Curie
+\end_layout
+
+\begin_layout Author
+Fien Keersse
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Biografie van Marie Curie
+\end_layout
+
+\begin_layout Standard
+Het leven van Marie Curie zit boordevol gebeurtenissen.
+ Je zou bijna zeggen dat het een legende is.
+\end_layout
+
+\begin_layout Section
+januari opstand in 1863
+\end_layout
+
+\begin_layout Standard
+De januari-opstand in 1863, ook wel Powtanie Syczniowe genoemd, was de grootste
+ Poolse opstand van de negentiende eeuw.
+ Er waren enorm veel mensen bij betrokken.
+ De plattelandsbevolking, de boeren, studenten en enkele politici en Poolse
+ legerofficieren gingen tegen de Russische bezetter in.
+ Er waren ongeveer 200.000 mensen die in opstand kwamen, waarvan ongeveer
+ 20.000 tot 30.000 echt een gewapende strijd voerden.
+ De directe aanleiding voor deze opstand was de invoer van dienstplicht,
+ door Alexander Wielopolski, voor de jonge Poolse mannen in het leger van
+ Rusland.
+ De opstand liep uit op een mislukking, de Poolse opstandelingen haalden
+ geen enkele overwinning binnen.
+ De opstand begon op 22 januari 1863 en eindigde in 1865, nadat de laatste
+ mensen waren gearresteerd.
+\end_layout
+
+\begin_layout Section
+Gevolgen van de opstand
+\end_layout
+
+\begin_layout Subsection
+Negatieve gevolgen:
+\end_layout
+
+\begin_layout Itemize
+Er werd geen enkele overwinning behaald.
+\end_layout
+
+\begin_layout Itemize
+Er vielen duizenden doden tijdens deze strijd.
+\end_layout
+
+\begin_layout Itemize
+Er werd wraak genomen door de Russen: Er vonden openbare executies plaats
+ en gevangenen werden naar Siberië gedeporteerd.
+ 
+\end_layout
+
+\begin_layout Subsection
+Positieve gevolgen:
+\end_layout
+
+\begin_layout Itemize
+Door de afstandelijke sfeer waren er wel eerlijkere maatschappelijke verhoudinge
+n voor de boeren afgedwongen.
+ Dit was later ook de start om een definitieve omvorming van de sociale
+ verhoudingen te komen, zoals de afschaffing van de lijfeigenschap van Poolse
+ boeren.
+ 
+\end_layout
+
+\begin_layout Itemize
+Poolse nationalisten gingen na de mislukte opstand niet opnieuw revolutionaire
+ acties doen.
+ Dit deed de situatie van Polen alleen maar slechter worden.
+ Men ging zich volledig toeleggen op allerlei veranderingen.
+ Niet alleen voor de boeren, maar ook voor de vrouwen en de Joden in Polen
+ vonden er veranderingen plaats, deze mensen werden steeds meer maatschappelijk
+ betrokken.
+ 
+\end_layout
+
+\end_body
+\end_document
