@@ -647,32 +647,29 @@ Reeks : Aardalkalimetalen
 Kleur : Zilverwit 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Subsubsection
 chemische eigenschappen
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Atoommassa (u) : 226,03
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Elektronenconfiguratie : [Rn]7s2
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Oxidatietoestanden : +2
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Elektronegativiteit (Pauling) : 0,9
 \end_layout
 
-\begin_layout Standard
-2e ionisatiepotentiaal (kJ·mol−1) : 979,06
-\end_layout
-
-\begin_layout Standard
-1e ionisatiepotentiaal (kJ·mol−1) : 509,29
+\begin_layout Itemize
+2e ionisatiepotentiaal (kJ·mol−1) : 979,061e ionisatiepotentiaal (kJ·mol−1)
+ : 509,29
 \end_layout
 
 \begin_layout Standard

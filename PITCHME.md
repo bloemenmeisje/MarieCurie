@@ -22,9 +22,8 @@
 
 ## Biografie
 
-- januari opstand in 1863 door rusland |
-- geboren: Warshau,Polen op 7 december 1867 |
-- tragedies Marie's jeugd |
+- opstand 1863 |
+- Warschau 7 december 1867 |
 - schooltijd en de vliegende universiteit |
 - studententijd |
 - carriere en gezin |
