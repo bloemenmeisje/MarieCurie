@@ -2,6 +2,11 @@
 
 ## voorwoord
 
+Dit werk gaat over Marie Curie's leven en alle belangrijke momenten en personen rond haar. Hier vindt je ook informatie over radium en halfwaarde tijd. Marie Curie was niet alleen een vrouw van de wetenschap. Zonder haar is de wereld niet hoe het nu is. 
+
+Iedereen kent wel Albert Einstein, hij was een goede vriend van Marie en hij zei :"Marie Curie is de enige van de beroemde mensen die niet bedorven is"
+ondanks haar grootsheid bleef ze altijd de zachte, sobere, envoudige dame uit warschau.
+
 ## terugblik
 
 Ik vond het een superleuk onderwerp om over te lezen en op te zoeken, ook al was het voor mij moeilijk om geintereseerd te blijven. ik had wel vaker,richting het einde van het schooljaar,het gevoel dat ik het beu begon te worden.Ik had soms echt geen zin om aan mijn werk te werken.
