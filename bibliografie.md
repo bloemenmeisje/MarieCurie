@@ -11,6 +11,12 @@
 ### Madame Curie
 - Auteur: Eve Curie,Willy Corsary, Uitgever: Leopold-Den Haag, Frans, ISBN: 9025801765, Gepubliciteerd in 1980
 
+### Balade Parisienne avec Pierre en Marie curie
+- Auteur: Nathalie Huchette, Uitgever: resonsable action culturelle et communication de musee Curie, Frans, ISBN: 978-2-9545809-2-0, Gepubliciteerd in 2018
+
+### Les Curie - Pionniers de l'atome
+- Auteur: Pierre Radvanyi, Uitgever: Belin: pour la science, Frans, ISBN: 978-2-7011-4224-1, Gepubliciteerd in 2005
+
 ### Trotter: Polen
 - Auteurs: Philippe Gloaguen, Petra Van Caneghem, Olivier Page, Uitgever: Lannoo,Tielt, Nederlands, ISBN: 9789401440103 , Gepubliciteerd in 2017
 
@@ -30,6 +36,9 @@
 #### De micro- en Macrokosmos in beeld gebracht
 - Auteur: Gordon Fraser; Egil Lillestøl; Inge Sellevåg; Jacques Meerman, Uitgever:Utrecht, Kosmos-Z & K, Maastricht : Natuur & Techniek,ISBN: 9073035384, gepubliciteerd in 1995
 
+### Marie Curie
+#### Au-dela du mythe
+- DVD: un film de Michel Vuillermet
 
 ## bezochte websites
 
