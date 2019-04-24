@@ -12,3 +12,6 @@ Ik heb haar appartement bezocht op de Quai de bethune en haar graf in het Panth√
 
 ## dankwoordje
 
+ik wil graag dankjewel zeggen aan mijn mentor: mr Heirman.
+Een " huge shoutout" naar mijn ouders die me hielpen met tekst en mijn website.
+Ook een dankjewel aan alle mensen die met plezier hebben meegewerkt aan mijn jaarwerk.
