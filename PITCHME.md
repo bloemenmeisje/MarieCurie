@@ -24,7 +24,6 @@
 
 - opstand 1863 |
 - Warschau 7 december 1867 |
-- schooltijd en de vliegende universiteit |
 - studententijd |
 - carriere en gezin |
 - WOI en laatste levensjaren |
