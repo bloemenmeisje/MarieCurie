@@ -59,14 +59,14 @@
 \end_index
 \secnumdepth 3
 \tocdepth 3
-\paragraph_separation indent
-\paragraph_indentation default
+\paragraph_separation skip
+\defskip smallskip
 \is_math_indent 0
 \math_numbering_side default
 \quotes_style polish
 \dynamic_quotes 0
 \papercolumns 1
-\papersides 1
+\papersides 2
 \paperpagestyle default
 \tracking_changes false
 \output_changes false
@@ -610,6 +610,13 @@ presentaties
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Brief en Biografie
 \end_layout
@@ -678,6 +685,45 @@ Vriendelijke en dankbare groetjes
 
 \begin_layout Quotation
 Fien
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename afb/mc_brief_01.jpg
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Brief aan Marie curie
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -1209,6 +1255,52 @@ les petites Curies
 " genoemd.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename afb/petite_curies.jpg
+	width 5cm
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename afb/petite_curies2.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Les petites Curies
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Laatste levensjaren
 \end_layout
@@ -1468,6 +1560,13 @@ Panthèon
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Radium
 \end_layout
@@ -1599,6 +1698,7 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename afb/perodiekstelsel.jpeg
 	width 12cm
@@ -2076,6 +2176,13 @@ Calcium
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Madame Curie door Eve Curie
 \end_layout
@@ -2096,6 +2203,7 @@ eid en haar doorzettingsvermogen.
 
 \begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
 status open
@@ -2103,9 +2211,8 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename afb/boek_mc_eve_01.jpg
-	width 6cm
-	rotateAngle -90
+	filename afb/boek_mc_eve_03.jpg
+	height 5cm
 
 \end_inset
 
@@ -2117,44 +2224,6 @@ status open
 
 \begin_layout Plain Layout
 Biografie Marie Curie
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename afb/boek_mc_eve_02.jpg
-	width 6cm
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-een bladzijde uit de biografie van Marie Curie
 \end_layout
 
 \end_inset
@@ -2667,6 +2736,45 @@ Gare du Nord
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename afb/mc_sorbone_02.jpg
+	width 4cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Sorbone
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Ze begint aan de colleges op 3 november 1891.
  Marie wordt een studente aan de Sorbonne
 \begin_inset Index idx
@@ -2944,7 +3052,49 @@ Kowalski
  Er is onmiddellijk een gevoel van vertrouwen tussen beide.
  Marie begint op dat moment aan een studie naar magnetische eigenschappen
  van metalen.
- Pierre zal haar hierbij helpen en hij is behoorlijk onder de indruk van
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename afb/mc_pierre_01.jpg
+	width 7cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Pierre Curie
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Pierre zal haar hierbij helpen en hij is behoorlijk onder de indruk van
  deze pittige Poolse dame.
  Hun eerste gesprekken die vooral wetenschappelijk waren, veranderen snel
  in aangename dialogen.
@@ -3079,6 +3229,45 @@ fietsen
 .
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename afb/marie_pierre_curie_fietsen.jpg
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fietsen als huwelijkskado
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Hoofdstuk 11 : Madame Curie
 \end_layout
@@ -3129,6 +3318,45 @@ Chantilly
  helemaal dol op Marie.
  Ze zijn heel blij met de toevoeging aan hun familie, ze vinden haar oprecht
  en heel verstandig.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename afb/mc_marie_01.jpg
+	width 7cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Marie Curie
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4337,6 +4565,45 @@ Académie des Sciences
  in het “labo” van haar echtgenoot.
  Vanaf 1906 gaan Pierre en Marie stevig aan het werk in het labo en haar
  bijdragen worden zelfs door de assistenten van Pierre erg gewaardeerd.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename afb/mc_sorbone_01.jpg
+	width 8cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Ecole municipale de physique et de chemie industrielles
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6143,6 +6410,13 @@ Marie Curie Pantheon
 
 \begin_layout Standard
 \begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
