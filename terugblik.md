@@ -19,4 +19,4 @@ Ik heb haar appartement bezocht op de Quai de bethune en haar graf in het Panth√
 
 ik wil graag dankjewel zeggen aan mijn mentor: mr Heirman.
 Een " huge shoutout" naar mijn ouders en mijn tante die me hielpen. Dankzij hen kon ik Marie Curie in Parijs gaan ontdekken.
-Ook een dankjewel aan alle mensen die met plezier hebben meegewerkt aan mijn jaarwerk : Toshaan Bharvani, Bert Van Vreckem, Kris Buytaert, Nikolai Domaev, Nancy Keersse,
+Ook een dankjewel aan alle mensen die met plezier hebben meegewerkt aan mijn jaarwerk : Toshaan Bharvani, Bert Van Vreckem, Kris Buytaert, Nikolai Domaev, Nancy Keersse
