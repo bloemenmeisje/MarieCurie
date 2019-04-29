@@ -1620,7 +1620,7 @@ status open
 \align center
 \begin_inset Graphics
 	filename afb/radium_atoom_02.jpg
-	width 3cm
+	width 4cm
 
 \end_inset
 
@@ -6641,12 +6641,7 @@ electro loden kist
 \end_layout
 
 \begin_layout Subsection
-Tekenen pictogram
-\end_layout
-
-\begin_layout Standard
-Dit pictogram geeft de waarschuwing voor radioactief materiaal of ioniserende
- straling.
+Schema en berekening van het elektrisch gedeelte
 \end_layout
 
 \begin_layout Standard
@@ -6654,7 +6649,62 @@ Dit pictogram geeft de waarschuwing voor radioactief materiaal of ioniserende
 placement H
 wide false
 sideways false
-status collapsed
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename afb/mc_loden_kist_elek_01.jpg
+	width 4cm
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename afb/mc_loden_kist_elek_02.jpg
+	width 7cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Het schema en de berekening
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Tekenen pictogram
+\end_layout
+
+\begin_layout Standard
+Dit pictogram geeft de waarschuwing voor radioactief materiaal.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -6690,7 +6740,7 @@ Waarschuwing; Radioactief materiaal of ioniserende straling
 \end_layout
 
 \begin_layout Subsection
-Benodigtheden
+Benodigdheden
 \end_layout
 
 \begin_layout Itemize

@@ -26,7 +26,7 @@ Het licht uit deze doos komt natuurlijk niet van de straling maar wel van enkele
 
 ![Het schema en de berekening](afbeeldingen/mc_loden_kist_elek_02.jpg)
 
-###  Benodigtheden
+###  Benodigdheden
 
 - Kartonnen schoendoos
 - crepepapier in de kleuren van lood
@@ -36,7 +36,7 @@ Het licht uit deze doos komt natuurlijk niet van de straling maar wel van enkele
 - batterijhouder
 - 4 AA batterijtjes
 - schakelaar
-- weerstand (680 ohm)
+- weerstand (220 ohm)
 - Krimpkous
 - soldeerbout + soldeer
 - ledjes (4)
