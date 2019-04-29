@@ -10,11 +10,7 @@ Voor mijn practisch deel maak ik gebuik van een loden kistje met waarin ik mijnh
 
 Als je de doos opent kan je je best goed beschermen als het fel blauw - witte licht je tegemoed komt. in de doos bevinden zich zwaar radioactieve vervuilde documenten die pas na 1600 jaar voor de helft zo vervuild zullen zijn. Dit is de halfwaarde tijd van Radium.
 
-<div style="float: center; transform: rotate(-90deg); width: 50%;">
- <figure>
-  <img src="afbeeldingen/mc_loden_kistje_open_02.jpg" alt="inhoud van de loden kist">
-</figure> 
-</div>
+![inhoud van de loden kist](afbeeldingen/mc_loden_kistje_open.jpg)
 
 Het licht uit deze doos komt natuurlijk niet van de straling maar wel van enkele ledjes( kleine lampjes). De kistje bevat dan ook een schakelaar en een batterij. Ik heb dit samen met mijn papa in elkaar gesoldeerd. 
 
