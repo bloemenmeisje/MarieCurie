@@ -12,7 +12,7 @@ Als je de doos opent kan je je best goed beschermen als het fel blauw - witte li
 
 <div style="float: center; transform: rotate(-90deg); width: 50%;">
  <figure>
-  <img src="./../afbeeldingen/mc_loden_kistje_open_02.jpg" alt="inhoud van de loden kist">
+  <img src="afbeeldingen/mc_loden_kistje_open_02.jpg" alt="inhoud van de loden kist">
 </figure> 
 </div>
 
