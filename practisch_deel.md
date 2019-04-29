@@ -2,19 +2,29 @@
 
 # practisch deel
 
+## De loden kist
+
 ![loden kist](afbeeldingen/mc_loden_kistje.jpg)
 
 Voor mijn practisch deel maak ik gebuik van een loden kistje met waarin ik mijnhoog radioactief materiaal in bewaar.
 
-### beschrijving
+### Inhoud van het loden kistje
 
 Als je de doos opent kan je je best goed beschermen als het fel blauw - witte licht je tegemoed komt. in de doos bevinden zich zwaar radioactieve vervuilde documenten die pas na 1600 jaar voor de helft zo vervuild zullen zijn. Dit is de halfwaarde tijd van Radium.
 
 ![inhoud van de loden kist](afbeeldingen/mc_loden_kistje_open.jpg)
 
+### Het elektrische gedeelte in het loden kistje
+
 Het licht uit deze doos komt natuurlijk niet van de straling maar wel van enkele ledjes( kleine lampjes). De kistje bevat dan ook een schakelaar en een batterij. Ik heb dit samen met mijn papa in elkaar gesoldeerd. 
 
 ![electro van de loden kist](afbeeldingen/mc_loden_kistje_ledjes.jpg)
+
+### Schema en berekening van het elektrisch gedeelte
+
+![Tekenen van het schema](afbeeldingen/mc_loden_kist_elek_01.jpg)
+
+![Het schema en de berekening](afbeeldingen/mc_loden_kist_elek_02.jpg)
 
 ###  Benodigtheden
 
