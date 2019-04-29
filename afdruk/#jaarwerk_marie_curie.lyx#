@@ -1351,7 +1351,8 @@ Radiuminstituut
  opgericht aan de Universiteit van Parijs, waar Curie directeur van werd.
  Een tweede Radiuminstituut richtte Curie in 1932 in Warschau op.
  Ze bleef directeur van het Radiuminstituut tot haar dood.
- Ze overleed in 1934 aan leukemie door een teveel aan straling.
+ Ze overleed in 1934 aan beenmergdepressie en leukemie door een teveel aan
+ straling.
  Dit zal waarschijnlijk ook de dood van Pierre hebben veroorzaakt.
  Ze werd naast haar man in Sceaux
 \begin_inset Index idx
@@ -1567,7 +1568,7 @@ Frederic Joliot
 \end_layout
 
 \begin_layout Itemize
-1934 : Marie overlijdt aan de gevolgen van leukemie.
+1934 : Marie overlijdt aan de gevolgen van beenmergdepressie en leukemie.
  Waarschijnlijk had het werken met straling een effect op Marie' s gezondheid.
 \end_layout
 
@@ -1732,7 +1733,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename afb/perodiekstelsel.jpeg
+	filename afb/radium_periodiek_stelsel_02.jpeg
 	width 12cm
 
 \end_inset
@@ -6455,7 +6456,47 @@ Marie Curie Pantheon
 \end_layout
 
 \begin_layout Part
-Practisch deel
+Practische deel
+\end_layout
+
+\begin_layout Section
+De loden kist
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename afb/mc_loden_kistje.jpg
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+loden kist
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6463,8 +6504,8 @@ Voor mijn practisch deel maak ik gebuik van een loden kistje met waarin
  ik mijnhoog radioactief materiaal in bewaar.
 \end_layout
 
-\begin_layout Section
-beschrijving
+\begin_layout Subsection
+Inhoud van het loden kistje
 \end_layout
 
 \begin_layout Standard
@@ -6476,13 +6517,139 @@ Als je de doos opent kan je je best goed beschermen als het fel blauw -
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename afb/mc_loden_kistje_open_02.jpg
+	width 8cm
+	rotateAngle 90
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+inhoud loden kist
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Het elektrische gedeelte in het loden kistje
+\end_layout
+
+\begin_layout Standard
 Het licht uit deze doos komt natuurlijk niet van de straling maar wel van
  enkele ledjes ( kleine lampjes).
  De kistje bevat dan ook een schakelaar en een batterij.
  Ik heb dit samen met mijn papa in elkaar gesoldeerd.
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename afb/mc_loden_kistje_ledjes.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+electro loden kist
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Tekenen pictogram
+\end_layout
+
+\begin_layout Standard
+Dit pictogram geeft de waarschuwing voor radioactief materiaal of ioniserende
+ straling.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename afb/mc_pictogram_radioactiviteit_02.jpg
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Waarschuwing; Radioactief materiaal of ioniserende straling
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
 Benodigtheden
 \end_layout
 
@@ -6519,15 +6686,33 @@ schakelaar
 \end_layout
 
 \begin_layout Itemize
-weerstand (680 ohm)
+4 weerstanden (220 ohm)
 \end_layout
 
 \begin_layout Itemize
-Krimpkous
+krimpkous
 \end_layout
 
 \begin_layout Itemize
-soldeerbout + soldeer ledjes (4)
+soldeerbout + soldeer
+\end_layout
+
+\begin_layout Itemize
+ledjes (4)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
