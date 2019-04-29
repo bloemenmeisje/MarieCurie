@@ -6482,42 +6482,6 @@ Het licht uit deze doos komt natuurlijk niet van de straling maar wel van
  Ik heb dit samen met mijn papa in elkaar gesoldeerd.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Float figure
-placement h
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename afb/mc_loden_kistje_ledjes.jpg
-	width 6cm
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-electro loden kist
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Benodigtheden
 \end_layout
@@ -6555,26 +6519,15 @@ schakelaar
 \end_layout
 
 \begin_layout Itemize
-4 weerstanden (680 ohm)
+weerstand (680 ohm)
 \end_layout
 
 \begin_layout Itemize
-krimpkous
+Krimpkous
 \end_layout
 
 \begin_layout Itemize
-soldeerbout + soldeer
-\end_layout
-
-\begin_layout Itemize
-ledjes (4)
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
+soldeerbout + soldeer ledjes (4)
 \end_layout
 
 \begin_layout Section
