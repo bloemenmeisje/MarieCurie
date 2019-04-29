@@ -12,6 +12,12 @@ Als je de doos opent kan je je best goed beschermen als het fel blauw - witte li
 
 ![inhoud van de loden kist](afbeeldingen/mc_loden_kistje_open_02.jpg)
 
+<div style="float: center; transform: rotate(-90deg); width: 50%;">
+ <figure>
+  <img src="./../afbeeldingen/mc_loden_kistje_open_02.jpg" alt="inhoud van de loden kist">
+</figure> 
+</div>
+
 Het licht uit deze doos komt natuurlijk niet van de straling maar wel van enkele ledjes( kleine lampjes). De kistje bevat dan ook een schakelaar en een batterij. Ik heb dit samen met mijn papa in elkaar gesoldeerd. 
 
 ![electro van de loden kist](afbeeldingen/mc_loden_kistje_ledjes.jpg)
