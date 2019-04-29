@@ -1608,6 +1608,46 @@ Radium
 Radium
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename afb/radium_atoom_02.jpg
+	width 3cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Radium atoom
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 beschrijving van radium
 \end_layout
@@ -6705,10 +6745,6 @@ ledjes (4)
 \begin_inset Newpage newpage
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 
 \end_layout
 
