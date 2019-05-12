@@ -54,14 +54,9 @@
 
 +++
 
-@snap[north text-center]
 ## @color[orange](Radium)
 ### @color[red](Periodiek stelsel - tabel van Mendeljev)
-@snapend
-
-@snap[south center]
 @img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
-@snapend
 
 +++
 ### radium in gas
