@@ -60,8 +60,8 @@
 +++
 
 ### @color[orange](Radium - Radioactief verval)
-@img[clean-img span-50](afbeeldingen/berekening_halfwaardetijd.png)
-@img[clean-img span-50](afbeeldingen/radioactief_verval2.png)
+@img[clean-img span-100](afbeeldingen/berekening_halfwaardetijd.png)
+@img[clean-img span-100](afbeeldingen/radioactief_verval2.png)
 
 +++
 
