@@ -59,7 +59,7 @@
 ### @color[red](Periodiek stelsel - tabel van Mendeljev)
 @snapend
 
-@snap[midpoint span-80 center]
+@snap[south center]
 @img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
 @snapend
 
