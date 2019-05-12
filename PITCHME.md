@@ -104,7 +104,7 @@
 +++
 
 ### @color[orange](Institut du Radium)
-@img[clean-img](afdruk/afb/institut_du_radium_01.jpg)
+@img[clean-img zoom-img-50](afdruk/afb/institut_du_radium_01.jpg)
 
 
 
