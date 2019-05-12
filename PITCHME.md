@@ -59,6 +59,13 @@
 @img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
 
 +++
+
+## @color[orange](Radium)
+### @color[red](radioactief verval)
+@img[clean-img](afbeeldingen/berekening_halfwaardetijd.png)
+@img[clean-img](afbeeldingen/radioactief_verval2.png)
+
++++
 ### radium in gas
 
 - definitie |
