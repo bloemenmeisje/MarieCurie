@@ -13,10 +13,11 @@
 @fa[microphone gp-tip](Druk op S voor notities)
 
 ---
+@snap[west span-40 text-center]
 
-## Marie Curie
+## @color[orange](Marie Curie)
 
-@img[clean-img span-60](afbeeldingen/mc_001.jpeg)
+@img[clean-img](afbeeldingen/mc_001.jpeg)
 
 ---
 
