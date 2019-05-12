@@ -9,8 +9,8 @@
   background: none;
 }
 
-.reveal img.zoom-img {
-  max-width: 100%;
+.reveal img.zoom-img-50 {
+  max-width: 50%;
   height: auto;
 }
 
