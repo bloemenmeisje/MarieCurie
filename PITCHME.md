@@ -1,6 +1,6 @@
 # @color[orange](Marie Curie)
 
-### Een verhaal over Marie Curie
+### @color[red](Een verhaal over Marie Curie)
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 @snap[north text-center]
-### @color[red](Ontdekking)
+### @color[orange](Ontdekking)
 @snapend
 
 @snap[west span-50 center]
