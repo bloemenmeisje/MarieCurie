@@ -13,7 +13,7 @@
 @fa[microphone gp-tip](Druk op S voor notities)
 
 ---
-@snap[west span-40 text-center]
+@snap[west span-60 text-center]
 
 ## @color[orange](Marie Curie)
 
