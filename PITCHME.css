@@ -9,8 +9,28 @@
   background: none;
 }
 
+.reveal img.zoom-img-70 {
+  max-width: 70%;
+  height: auto;
+}
+
+.reveal img.zoom-img-60 {
+  max-width: 60%;
+  height: auto;
+}
+
 .reveal img.zoom-img-50 {
   max-width: 50%;
+  height: auto;
+}
+
+.reveal img.zoom-img-40 {
+  max-width: 40%;
+  height: auto;
+}
+
+.reveal img.zoom-img-30 {
+  max-width: 30%;
   height: auto;
 }
 
