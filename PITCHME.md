@@ -104,7 +104,10 @@
 +++
 
 ### @color[orange](Institut du Radium)
-@img[clean-img zoom-img-50](afdruk/afb/institut_du_radium_01.jpg)
+@img[clean-img zoom-img-40](afdruk/afb/institut_du_radium_01.jpg)
 
++++
 
+### @color[orange](Ile Saint Louis)
+@img[clean-img zoom-img-40 rotateimg90](afdruk/afb/mc_ile_saint_louis.jpg)
 
