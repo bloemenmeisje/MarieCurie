@@ -1,4 +1,4 @@
-# Marie Curie
+# @color[orange](Marie Curie)
 
 ### Een verhaal over Marie Curie
 
