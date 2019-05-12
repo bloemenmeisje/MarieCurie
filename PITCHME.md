@@ -22,8 +22,8 @@
 @snapend
 
 @snap[east span-50 text-center]
-### @color[red](Biografie)
 @ul
+### @color[red](Biografie)
 - opstand 1863
 - Warschau 1867
 - studententijd
