@@ -112,3 +112,23 @@
 &nbsp;&nbsp;&nbsp;
 @img[clean-img zoom-img-50 rotateimg270](afdruk/afb/mc_ile_saint_louis.jpg)
 
++++
+
+### @color[orange](Tuin)
+@img[clean-img zoom-img-40](afdruk/afb/mc_fien_tuin01.jpg)
+
++++
+
+### @color[orange](Labo)
+@img[clean-img zoom-img-40](afdruk/afb/mc_labo_fien_01.jpg)
+
++++
+
+### @color[orange](Buro)
+@img[clean-img zoom-img-40](afdruk/afb/mc_buro_fien_01.jpg)
+
++++
+
+### @color[orange](Pantheon)
+@img[clean-img zoom-img-40](afdruk/afb/mc_pantheon_01.jpg)
+
