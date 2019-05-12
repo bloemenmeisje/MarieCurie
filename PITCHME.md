@@ -70,20 +70,20 @@
 @snap[east span-30 text-center]
 <table>
   <tr>
-    <th>Tijd in jaren</th>
-    <th>Over in procent</th>
+    <th align="center">tijd in j</th>
+    <th align="center">over in &percnt;</th>
   </tr>
   <tr>
-    <td>0j</td>
-    <td>100&percnt;</td>
+    <td align="center">0j</td>
+    <td align="center">100&percnt;</td>
   </tr>
   <tr>
-    <td>1600j</td>
-    <td>50&percnt;</td>
+    <td align="center">1600j</td>
+    <td align="center">50&percnt;</td>
   </tr>
   <tr>
-    <td>3200j</td>
-    <td>25&percnt;</td>
+    <td align="center">3200j</td>
+    <td align="center">25&percnt;</td>
   </tr>
 </table>
 @snapend
