@@ -103,8 +103,7 @@
 
 +++
 
-## @color[orange](Parijs)
-@fa[](Institut du Radium)
+### @color[orange](Institut du Radium)
 @img[clean-img](afdruk/afb/institut_du_radium_01.jpg)
 
 
