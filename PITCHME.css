@@ -9,6 +9,10 @@
   background: none;
 }
 
+.reveal img.zoom-img-50 {
+  zoom: 50%;
+}
+
 .text-table01 { 
   font-size: 0.5em !important; 
 }
