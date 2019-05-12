@@ -9,8 +9,9 @@
   background: none;
 }
 
-.reveal img.zoom-img-50 {
-  zoom: 50%;
+.reveal img.zoom-img {
+  max-width: 100%;
+  height: auto;
 }
 
 .text-table01 { 
