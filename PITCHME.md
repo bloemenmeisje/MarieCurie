@@ -68,7 +68,7 @@
 @snapend
 
 @snap[east span-30 text-center]
-<table>
+<table font-size: small; >
   <tr>
     <th align="center">tijd in j</th>
     <th align="center">over in &percnt;</th>
