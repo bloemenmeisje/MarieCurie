@@ -4,15 +4,6 @@
 
 ---
 
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Druk op F voor een volledig scherm)
-
-@fa[microphone gp-tip](Druk op S voor notities)
-
----
 @snap[north text-center]
 ## @color[orange](Biografie)
 @snapend
