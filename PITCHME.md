@@ -98,7 +98,7 @@
 ---
 
 ## @color[orange](Parijs)
-@img[clean-img](afbeeldingen/sorbone_parijs.JPG)
+@img[clean-img](afdruk/afb/mc_sorbone_01.jpg)
 
 
 
