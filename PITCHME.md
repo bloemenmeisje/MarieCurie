@@ -34,6 +34,7 @@
 @snapend
 
 ---
+
 @snap[north text-center]
 ## @color[orange](Radium)
 ### @color[red](ontdekking)
@@ -54,12 +55,12 @@
 
 +++
 
-### @color[red](Radium - Periodiek stelsel)
+## @color[orange](Radium - Periodiek stelsel)
 @img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
 
 +++
 
-### @color[red](Radium - Radioactief verval)
+## @color[orange](Radium - Radioactief verval)
 @img[clean-img](afbeeldingen/berekening_halfwaardetijd.png)
 @img[clean-img](afbeeldingen/radioactief_verval2.png)
 
