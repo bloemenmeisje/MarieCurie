@@ -109,7 +109,7 @@
 +++
 
 ### @color[orange](Ile Saint Louis)
-@img[clean-img zoom-img-50](afbeeldingen/ilesaintlouis_portrait.png)
+@img[clean-img zoom-img-60](afbeeldingen/ilesaintlouis_portrait.png)
 
 +++
 
