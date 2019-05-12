@@ -19,11 +19,25 @@
 
 @snapend
 
-@snap[west span-60 text-center]
+@snap[west span-60 center]
 
 @img[clean-img](afbeeldingen/mc_001.jpeg)
 
 @snapend
+
+@snap[east span-60 text-center]
+
+### @color[red]Biografie
+
+- opstand 1863 |
+- Warschau 1867 |
+- studententijd |
+- carriere en gezin |
+- wereld oorlog I |
+- laatste levensjaren |
+
+@snapend
+
 ---
 
 ## Biografie
