@@ -67,8 +67,8 @@
 @img[clean-img](afbeeldingen/radioactief_verval2.png)
 @snapend
 
-@snap[east span-30 text-center]
-<table style="font-size: small;" >
+@snap[east span-30 text-table01 text-center]
+<table>
   <tr>
     <th align="center">tijd in j</th>
     <th align="center">over in &percnt;</th>
