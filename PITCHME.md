@@ -55,7 +55,7 @@
 +++
 
 ## @color[orange](Radium)
-### @color[red](Periodiek stelsel - tabel van Mendeljev)
+### @color[red](Periodiek stelsel)
 @img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
 
 +++
