@@ -14,48 +14,43 @@
 
 ---
 @snap[north text-center]
-
 ## @color[orange](Marie Curie)
-
 @snapend
 
-@snap[west span-60 center]
-
+@snap[west span-50 center]
 @img[clean-img](afbeeldingen/mc_001.jpeg)
-
 @snapend
 
-@snap[east span-60 text-center]
-
-### @color[red]Biografie
+@snap[east span-50 text-center]
+### @color[red](Biografie)
 @ul
-- opstand 1863 |
-- Warschau 1867 |
-- studententijd |
-- carriere en gezin |
-- wereld oorlog I |
-- laatste levensjaren |
+- opstand 1863
+- Warschau 1867
+- studententijd
+- carriere en gezin
+- wereld oorlog I
+- laatste levensjaren
 @ulend
 @snapend
 
 ---
+@snap[north text-center]
+### @color[red](Ontdekking)
+@snapend
 
-## Biografie
+@snap[west span-50 center]
+@img[clean-img](afbeeldingen/radium_atoom_02.jpg)
+@snapend
 
-- opstand 1863 |
-- Warschau 7 december 1867 |
-- studententijd |
-- carriere en gezin |
-- WOI en laatste levensjaren |
-
----
-
-### Radium
-
-- atoomkern |
-- pekblende |
-- isoleren |
-- gevolgen |
+@snap[east span-50 text-center]
+### @color[red](Radium)
+@ul
+- atoomkern
+- pekblende
+- isoleren
+- gevolgen
+@ulend
+@snapend
 
 +++
 
