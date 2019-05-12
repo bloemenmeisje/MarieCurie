@@ -28,14 +28,14 @@
 @snap[east span-60 text-center]
 
 ### @color[red]Biografie
-
+@ul
 - opstand 1863 |
 - Warschau 1867 |
 - studententijd |
 - carriere en gezin |
 - wereld oorlog I |
 - laatste levensjaren |
-
+@ulend
 @snapend
 
 ---
