@@ -36,6 +36,7 @@
 ---
 @snap[north text-center]
 ## @color[orange](Radium)
+### @color[red](ontdekking)
 @snapend
 
 @snap[west span-50 center]
@@ -43,7 +44,6 @@
 @snapend
 
 @snap[east span-50 text-center]
-### @color[red](ontdekking)
 @ul
 - atoomkern
 - pekblende
@@ -54,18 +54,17 @@
 
 +++
 
-## @color[orange](Radium)
-### @color[red](Periodiek stelsel)
+### @color[red](Radium - Periodiek stelsel)
 @img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
 
 +++
 
-## @color[orange](Radium)
-### @color[red](radioactief verval)
+### @color[red](Radium - Radioactief verval)
 @img[clean-img](afbeeldingen/berekening_halfwaardetijd.png)
 @img[clean-img](afbeeldingen/radioactief_verval2.png)
 
 +++
+
 ### radium in gas
 
 - definitie |
