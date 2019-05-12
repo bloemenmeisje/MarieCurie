@@ -54,15 +54,26 @@
 
 +++
 
-### @color[orange](Radium - Periodiek stelsel)
+### @color[orange](Periodiek stelsel)
 @img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
 
 +++
 
-### @color[orange](Radium - Radioactief verval)
-@img[clean-img span-80](afbeeldingen/berekening_halfwaardetijd.png)
-@img[clean-img span-60](afbeeldingen/radioactief_verval2.png)
+@snap[north text-center]
+### @color[orange](Radioactief verval)
+@snapend
 
+@snap[west span-70 center]
+@img[clean-img](afbeeldingen/radioactief_verval2.png)
+@snapend
+
+@snap[east span-30 text-center]
+Tijd in jaren | Over in procent
+------------- | ---------------
+0j | 100%
+1600j | 50%
+3200j | 25%
+@snapend
 +++
 
 ### radium in gas
