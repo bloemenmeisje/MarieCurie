@@ -16,7 +16,7 @@
 
 ## Marie Curie
 
-@img[](afbeeldingen/mc_001.jpeg)
+@img[clean-img span-60](afbeeldingen/mc_001.jpeg)
 
 ---
 
