@@ -98,8 +98,14 @@
 ---
 
 ## @color[orange](Parijs)
+@fa[](École supérieure de physique et de chimie industrielles)
 @img[clean-img](afdruk/afb/mc_sorbone_01.jpg)
 
++++
+
+## @color[orange](Parijs)
+@fa[](Institut du Radium)
+@img[clean-img](afdruk/afb/institut_du_radium_01.jpg)
 
 
 
