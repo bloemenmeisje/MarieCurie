@@ -109,5 +109,5 @@
 +++
 
 ### @color[orange](Ile Saint Louis)
-@img[clean-img zoom-img-40 rotateimg90](afdruk/afb/mc_ile_saint_louis.jpg)
+@img[clean-img zoom-img-40 rotateimg270](afdruk/afb/mc_ile_saint_louis.jpg)
 
