@@ -16,7 +16,7 @@
 
 ## Marie Curie
 
-![](afbeeldingen/mc_001.jpeg)
+@img[](afbeeldingen/mc_001.jpeg)
 
 ---
 
