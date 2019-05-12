@@ -35,7 +35,7 @@
 
 ---
 @snap[north text-center]
-### @color[orange](Ontdekking)
+## @color[orange](Radium)
 @snapend
 
 @snap[west span-50 center]
@@ -43,7 +43,7 @@
 @snapend
 
 @snap[east span-50 text-center]
-### @color[red](Radium)
+### @color[red](ontdekking)
 @ul
 - atoomkern
 - pekblende
@@ -54,6 +54,16 @@
 
 +++
 
+@snap[north text-center]
+## @color[orange](Radium)
+### @color[red](Periodiek stelsel - tabel van Mendeljev)
+@snapend
+
+@snap[midpoint span-80 center]
+@img[clean-img](afbeeldingen/radium_periodiek_stelsel_02.jpeg)
+@snapend
+
++++
 ### radium in gas
 
 - definitie |
