@@ -68,12 +68,26 @@
 @snapend
 
 @snap[east span-30 text-center]
-Tijd in jaren | Over in procent
-------------- | ---------------
-0j | 100%
-1600j | 50%
-3200j | 25%
+<table>
+  <tr>
+    <th>Tijd in jaren</th>
+    <th>Over in procent</th>
+  </tr>
+  <tr>
+    <td>0j</td>
+    <td>100&percnt;</td>
+  </tr>
+  <tr>
+    <td>1600j</td>
+    <td>50&percnt;</td>
+  </tr>
+  <tr>
+    <td>3200j</td>
+    <td>25&percnt;</td>
+  </tr>
+</table>
 @snapend
+
 +++
 
 ### radium in gas
