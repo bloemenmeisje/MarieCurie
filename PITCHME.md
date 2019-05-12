@@ -85,6 +85,14 @@
     <td align="center">3200j</td>
     <td align="center">25&percnt;</td>
   </tr>
+  <tr>
+    <td align="center">4800j</td>
+    <td align="center">12,5&percnt;</td>
+  </tr>
+  <tr>
+    <td align="center">6400j</td>
+    <td align="center">6,25&percnt;</td>
+  </tr>
 </table>
 @snapend
 
