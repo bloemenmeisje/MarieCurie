@@ -13,12 +13,14 @@
 @fa[microphone gp-tip](Druk op S voor notities)
 
 ---
-@snap[west span-60 text-center]
 
 ## @color[orange](Marie Curie)
 
+@snap[west span-60 text-center]
+
 @img[clean-img](afbeeldingen/mc_001.jpeg)
 
+@snapend
 ---
 
 ## Biografie
