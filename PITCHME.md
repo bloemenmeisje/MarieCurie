@@ -14,7 +14,7 @@
 
 ---
 @snap[north text-center]
-## @color[orange](Marie Curie)
+## @color[orange](Biografie)
 @snapend
 
 @snap[west span-50 center]
@@ -23,7 +23,6 @@
 
 @snap[east span-50 text-center]
 @ul
-### @color[red](Biografie)
 - opstand 1863
 - Warschau 1867
 - studententijd
@@ -36,7 +35,7 @@
 ---
 
 @snap[north text-center]
-### @color[orange](Radium)
+## @color[orange](Radium)
 @snapend
 
 @snap[west span-50 center]
@@ -96,13 +95,11 @@
 </table>
 @snapend
 
-+++
+---
 
-### radium in gas
+## @color[orange](Parijs)
+@img[clean-img](afbeeldingen/sorbone_parijs.JPG)
 
-- definitie |
-- radioactiefverval |
-  - halfwaardetijd
 
 
 
